@@ -28,7 +28,7 @@
     <url>/Tech/2022/09/04/hexo-and-next-with-github-pages.html</url>
     <content><![CDATA[<h2 id="操作环境"><a href="#操作环境" class="headerlink" title="操作环境"></a>操作环境</h2><p>我们需要什么？</p>
 <ul>
-<li><a href="https://nodejs.org/zh-cn/">Node.js</a> - 一个基于 Chrome V8 引擎的 JavaScript 运行时环境（建议使用 Node.js 12.0 及以上版本）</li>
+<li><a href="https://nodejs.org/zh-cn/">Node.js</a> - 基于 Chrome V8 引擎的 JavaScript 运行时环境（建议使用 Node.js 12.0 及以上版本）</li>
 <li><a href="https://hexo.io/zh-cn/">Hexo</a> - 快速、简洁且高效的博客框架</li>
 <li><a href="https://theme-next.js.org/docs/getting-started/">NexT</a> - Theme for Hexo</li>
 <li><a href="https://pages.github.com/">GitHub Pages</a> - Websites for you and your projects</li>
@@ -121,7 +121,7 @@
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo new hello-world</span><br></pre></td></tr></table></figure>
 
 <p>创建的文章会出现在路径 <code>source/_posts/</code> 下，文件格式为 MarkDown。在文章开头添加必要信息：</p>
-<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章标题（自动创建，可以修改为中文标题）</span><br><span class="line">date: 日期（自动创建，如 2022-09-04 10:44:30）</span><br><span class="line">tags:</span><br><span class="line"><span class="bullet">-</span> tag1</span><br><span class="line"><span class="bullet">-</span> tag2</span><br><span class="line">categories:</span><br><span class="line"><span class="bullet">-</span> cate1</span><br><span class="line"><span class="bullet">-</span> cate2</span><br><span class="line"></span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章标题（自动创建，可以修改为中文标题）</span><br><span class="line">date: 日期（自动创建，如 2022-09-04 10:44:30）</span><br><span class="line">tags:</span><br><span class="line"><span class="bullet">-</span> tag1</span><br><span class="line"><span class="bullet">-</span> tag2</span><br><span class="line">categories:</span><br><span class="line"><span class="bullet">-</span> cate1</span><br><span class="line"><span class="section">- cate2</span></span><br><span class="line"><span class="section">---</span></span><br></pre></td></tr></table></figure>
 
 <p>这些信息由 Hexo 来识别，并生成相应的日志文件。</p>
 <h3 id="标签页"><a href="#标签页" class="headerlink" title="标签页"></a>标签页</h3><p>在博客中添加标签页 <code>tags</code>，可以展示该博客目前拥有哪些标签，并可聚焦于相关标签的文章。在博客主目录下，使用命令创建标签页：</p>
