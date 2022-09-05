@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>第一次面试</title>
+    <url>/Life/2022/09/03/first-interview.html</url>
+    <content><![CDATA[<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>2022年9月2日晚八点左右，我参加了我人生中第一次较为正式且对我人生转折有影响的面试：合肥工业大学计算机与信息学院斛兵学子暨预推免招生面试。<br>面试流程为 ppt 自我介绍+导师提问，整个过程很短，大约七分钟左右。但这短短的七分钟，暴露了我很多问题。<br>极其简短且单调的自我介绍，只是直接把简历上的内容复述一遍；自我介绍完面试官的沉默；对我提问后我的答非所问和毫无逻辑的回答…无论面试结果如何，对我来说，这场面试是失败的。</p>
+<h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><p>面试中的自我介绍意义在于让面试官快速地了解自己，我们应该利用这个机会多向面试官传达一些有用的信息，让接下来的沟通更偏向于自己有利的方向。在这个环节中，我所暴露的问题有两个：</p>
+<ol>
+<li>对待事情不认真、敷衍的态度。在面试前我有充分的时间可以准备我的ppt和自我介绍，但我对面试这件事及其不上心，明明是当前最重要的事请却抛在脑后，每天无意义的摆烂和内耗。</li>
+<li>不敢正视遇到的问题。随着面试时间不断逼近，作为我的第一次面试，我没有去学习这方面的知识和经验，而是做着其他的琐事来逃避。</li>
+</ol>
+<p>回想以前，这两个缺点一直伴随着我，它们对我的影响十分恶劣，但我却从未想着去改进、去进步。在面对所参加的知识竞赛时，比赛内容稍微复杂我就选择了放弃；在上着感兴趣的专业课程时，遇到了稍微难以理解的知识点，我选择了跳过…纵观我的三年大学生活，我仿佛很少绞尽脑汁去解决碰到的问题，很少专注于某各个知识点的学习，很少使用大脑认真地思考，在这些方面，我成长的很少。</p>
+<h3 id="导师提问"><a href="#导师提问" class="headerlink" title="导师提问"></a>导师提问</h3><p>导师们提出的问题不涉及专业知识，只是对于你的自我介绍相关内容进行提问。令我印象深刻的问题是吴乐老师的问题：“你参加了这么多竞赛，能不能通过一些过程来体现出你的亮点，或者说你的科研与编程能力？”<br>我听到这个问题后，我的整个大脑是空白的，不仅仅是因为紧张，更关键的原因是我对我自己没有清楚的认识。我究竟是怎样一个人、我的亮点是什么，这些问题，我从未去想过。<br>我或许很普通，或许没有什么特别突出的优点。但我对自己一点也不了解，我的优点有哪些，我的缺点又有哪些，我有没有想过去提升这些优点，改正这些缺点。活在人世间近乎20年，因为内向很少正视他人，但我也很少正视自己。我眼中的我是什么样子的呢？我想成为怎样的人呢？我觉得我需要仔细考虑这些问题了，我需要好好正视自己了。</p>
+<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>这是我第一次写下博客，目的在于记录下这次失败，记录下这人生中的小挫折。尽管文笔不好，逻辑较混乱，但这里是我新的起点，我希望我能成为不一样的我，不断学习、不断思考，向着远方前进。</p>
+<blockquote>
+<p>There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo + NexT 遇上 GitHub Pages</title>
     <url>/Tech/2022/09/04/hexo-and-next-with-github-pages.html</url>
     <content><![CDATA[<h2 id="操作环境"><a href="#操作环境" class="headerlink" title="操作环境"></a>操作环境</h2><p>我们需要什么？</p>
@@ -11,7 +34,7 @@
 <li><a href="https://pages.github.com/">GitHub Pages</a> - Websites for you and your projects</li>
 </ul>
 <blockquote>
-<p>本文 NexT 主题通过 git 方式下载，若通过 npm 方式下载，请将下文的主题配置文件 <code>themes/next/_config.yml</code><br>替换为 <code>node_modules/hexo-theme-next/_config.yml</code>。</p>
+<p>本文 NexT 主题通过 git 方式下载，若通过 npm 方式下载，请将下文的主题配置文件 <code>themes/next/_config.yml</code> 替换为 <code>node_modules/hexo-theme-next/_config.yml</code>。</p>
 </blockquote>
 <p>也许有时会出现按照步骤配置了，却没有达到想要的结果，那么版本问题也是需要考虑的一个重点。<br>我的 <code>package.json</code>：</p>
 <figure class="highlight json"><table><tr><td class="code"><pre><span class="line"><span class="punctuation">&#123;</span></span><br><span class="line">  <span class="attr">&quot;name&quot;</span><span class="punctuation">:</span> <span class="string">&quot;hexo-site&quot;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;version&quot;</span><span class="punctuation">:</span> <span class="string">&quot;0.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;private&quot;</span><span class="punctuation">:</span> <span class="literal"><span class="keyword">true</span></span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;scripts&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;build&quot;</span><span class="punctuation">:</span> <span class="string">&quot;hexo generate&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;clean&quot;</span><span class="punctuation">:</span> <span class="string">&quot;hexo clean&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;deploy&quot;</span><span class="punctuation">:</span> <span class="string">&quot;hexo deploy&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;server&quot;</span><span class="punctuation">:</span> <span class="string">&quot;hexo server&quot;</span></span><br><span class="line">  <span class="punctuation">&#125;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;hexo&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;version&quot;</span><span class="punctuation">:</span> <span class="string">&quot;6.2.0&quot;</span></span><br><span class="line">  <span class="punctuation">&#125;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;dependencies&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;babel-preset-env&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^1.7.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;babel-preset-mobx&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^2.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;gulp&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^4.0.2&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;gulp-htmlclean&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^2.7.22&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;gulp-htmlmin&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^5.0.1&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;gulp-minify-css&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^1.2.4&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^6.2.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-deployer-git&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^3.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-generator-archive&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^1.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-generator-category&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^1.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-generator-index&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^2.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-generator-searchdb&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^1.4.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-generator-tag&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^1.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-renderer-ejs&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^2.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-renderer-marked&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^5.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-renderer-stylus&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^2.1.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-server&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^3.0.0&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;hexo-theme-landscape&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^0.0.3&quot;</span></span><br><span class="line">  <span class="punctuation">&#125;</span><span class="punctuation">,</span></span><br><span class="line">  <span class="attr">&quot;devDependencies&quot;</span><span class="punctuation">:</span> <span class="punctuation">&#123;</span></span><br><span class="line">    <span class="attr">&quot;@babel/core&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^7.18.13&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;@babel/preset-env&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^7.18.10&quot;</span><span class="punctuation">,</span></span><br><span class="line">    <span class="attr">&quot;@babel/preset-react&quot;</span><span class="punctuation">:</span> <span class="string">&quot;^7.18.6&quot;</span></span><br><span class="line">  <span class="punctuation">&#125;</span></span><br><span class="line"><span class="punctuation">&#125;</span></span><br></pre></td></tr></table></figure>
@@ -44,7 +67,7 @@
 <h2 id="配置主题"><a href="#配置主题" class="headerlink" title="配置主题"></a>配置主题</h2><h3 id="配置主题文件"><a href="#配置主题文件" class="headerlink" title="配置主题文件"></a>配置主题文件</h3><p>想要配置 NexT 的主题，传统的方法是直接修改相关配置文件 <code>_config.yml</code> or <code>themes/next/_config.yml</code>，但这种方式有一定弊端，当通过 git 或者 npm 升级 NexT 主题时，这些配置文件就会被覆盖，给主题配置带来不便。所以，NexT 现在鼓励用户使用 <a href="https://theme-next.js.org/docs/getting-started/configuration.html">Alternate Theme Config</a>，这是 Hexo 的一个特性，参考文档 <a href="https://hexo.io/docs/configuration.html#Using-an-Alternate-Config">Hexo Configuration</a>。<br>使用其他配置文件时可通过命令 <code>--config</code> 来指定自定义配置文件路径：</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">使用 <span class="string">&#x27;custom.yml&#x27;</span> 代替 <span class="string">&#x27;_config.yml&#x27;</span></span></span><br><span class="line">hexo s --config custom.yml</span><br></pre></td></tr></table></figure>
 
-<h4 id="使用-config-name-yml"><a href="#使用-config-name-yml" class="headerlink" title="使用 _config.[name].yml"></a>使用 <code>_config.[name].yml</code></h4><p>将所有的主题配置集中于文件 <code>_config.[name].yml</code> 中，并替换站点配置文件 <code>_config.yml</code> 中属性 theme 的值为 [name]。</p>
+<h4 id="使用-config-name-yml"><a href="#使用-config-name-yml" class="headerlink" title="使用 _config.[name].yml"></a>使用 <code>_config.[name].yml</code></h4><p>将所有的主题配置集中于文件 <code>_config.[name].yml</code> 中，并替换站点配置文件 <code>_config.yml</code> 中属性 theme 的值为 <code>[name]</code>。</p>
 <ol>
 <li>使用Hexo 5.0 及以上版本。</li>
 <li>在站点根目录创建配置文件，如 <code>_config.next.yml</code></li>
@@ -67,13 +90,13 @@
 <p>在配置文件中可选择你喜欢的主题(●’◡’●)。</p>
 <figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="comment"># Schemes</span></span><br><span class="line"><span class="comment">#scheme: Muse</span></span><br><span class="line"><span class="comment">#scheme: Mist</span></span><br><span class="line"><span class="comment">#scheme: Pisces</span></span><br><span class="line"><span class="attr">scheme:</span> <span class="string">Gemini</span></span><br></pre></td></tr></table></figure>
 
-<h3 id="设置网站的图标"><a href="#设置网站的图标" class="headerlink" title="设置网站的图标"></a>设置网站的图标</h3><p>favicon 是站点标签栏的小图标，Hexo 默认的图标是黑色六边形中间有个大写的 N，我们可以为博客设置自己的小图标。<br>这里有一个网站可以为你的图片定制<a href="https://realfavicongenerator.net/">生成标签栏图标</a><br>，上传一张图片，即可打包下载各种尺寸和适配不同设备的小图标。<br>将各种图标下载后将他们放在路径 themes&#x2F;next&#x2F;source&#x2F;images&#x2F; 下然后在配置文件中修改配置：</p>
+<h3 id="设置网站的图标"><a href="#设置网站的图标" class="headerlink" title="设置网站的图标"></a>设置网站的图标</h3><p>favicon 是站点标签栏的小图标，Hexo 默认的图标是黑色六边形中间有个大写的 N，我们可以为博客设置自己的小图标。<br>可以借助网站<a href="https://realfavicongenerator.net/">生成标签栏图标</a>，上传一张图片，即可打包下载各种尺寸和适配不同设备的小图标。将各种图标下载后将他们放在路径 themes&#x2F;next&#x2F;source&#x2F;images&#x2F; 下然后在配置文件中修改配置：</p>
 <figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">favicon:</span></span><br><span class="line">  <span class="attr">small:</span> <span class="string">/images/favicon-16x16.png</span></span><br><span class="line">  <span class="attr">medium:</span> <span class="string">/images/favicon-32x32.png</span></span><br><span class="line">  <span class="attr">apple_touch_icon:</span> <span class="string">/images/apple-touch-icon.png</span></span><br><span class="line">  <span class="attr">safari_pinned_tab:</span> <span class="string">/images/safari-pinned-tab.svg</span></span><br><span class="line">  <span class="comment"># android_manifest: /images/manifest.json</span></span><br><span class="line">  <span class="attr">ms_browserconfig:</span> <span class="string">/images/browserconfig.xml</span></span><br></pre></td></tr></table></figure>
 
 <h3 id="设置个人头像"><a href="#设置个人头像" class="headerlink" title="设置个人头像"></a>设置个人头像</h3><p>avatar 类似于站点的头像，可在作者信息旁边显示你设置的头像。<br>准备好你的图片（它最好是正方形的），将其放到路径 themes&#x2F;next&#x2F;source&#x2F;images&#x2F; 下，然后在主题配置文件 <code>themes/next/_config.yml</code><br>修改配置：</p>
 <figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">avatar:</span></span><br><span class="line">  <span class="attr">url:</span> <span class="string">/images/ireina.jpg</span> <span class="comment"># 你的图片的 url</span></span><br><span class="line">  <span class="attr">rounded:</span> <span class="literal">true</span> <span class="comment"># 显示圆形图像</span></span><br><span class="line">  <span class="attr">rotated:</span> <span class="literal">false</span> <span class="comment"># 使图像带有旋转效果</span></span><br></pre></td></tr></table></figure>
 
-<h3 id="在文章末尾添加"><a href="#在文章末尾添加" class="headerlink" title="在文章末尾添加"></a>在文章末尾添加</h3><p>在目录 <code>\themes\next\layout\_macro</code> 下新建文件 <code>passage-end-tag.swig</code>，添加以下内容：</p>
+<h3 id="在文章末尾添加-end"><a href="#在文章末尾添加-end" class="headerlink" title="在文章末尾添加 end"></a>在文章末尾添加 end</h3><p>在目录 <code>\themes\next\layout\_macro</code> 下新建文件 <code>passage-end-tag.swig</code>，添加以下内容：</p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span>&gt;</span></span><br><span class="line">    &#123;% if not is_index %&#125;</span><br><span class="line">    <span class="tag">&lt;<span class="name">div</span> <span class="attr">style</span>=<span class="string">&quot;text-align:center;color: #ccc;font-size:14px;&quot;</span>&gt;</span>-------------end-------------<span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line">    &#123;% endif %&#125;</span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>
 
 <p>打开文件 <code>\themes\next\layout\_macro\post.swig</code>，在 <code>post-body</code> 之后， <code>post-footer</code> 之前添加代码：</p>
@@ -134,29 +157,6 @@
       </categories>
       <tags>
         <tag>theme</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一次面试</title>
-    <url>/Life/2022/09/03/first-interview.html</url>
-    <content><![CDATA[<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>2022年9月2日晚八点左右，我参加了我人生中第一次较为正式且对我人生转折有影响的面试：合肥工业大学计算机与信息学院斛兵学子暨预推免招生面试。<br>面试流程为 ppt 自我介绍+导师提问，整个过程很短，大约七分钟左右。但这短短的七分钟，暴露了我很多问题。<br>极其简短且单调的自我介绍，只是直接把简历上的内容复述一遍；自我介绍完面试官的沉默；对我提问后我的答非所问和毫无逻辑的回答…无论面试结果如何，对我来说，这场面试是失败的。</p>
-<h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><p>面试中的自我介绍意义在于让面试官快速地了解自己，我们应该利用这个机会多向面试官传达一些有用的信息，让接下来的沟通更偏向于自己有利的方向。在这个环节中，我所暴露的问题有两个：</p>
-<ol>
-<li>对待事情不认真、敷衍的态度。在面试前我有充分的时间可以准备我的ppt和自我介绍，但我对面试这件事及其不上心，明明是当前最重要的事请却抛在脑后，每天无意义的摆烂和内耗。</li>
-<li>不敢正视遇到的问题。随着面试时间不断逼近，作为我的第一次面试，我没有去学习这方面的知识和经验，而是做着其他的琐事来逃避。</li>
-</ol>
-<p>回想以前，这两个缺点一直伴随着我，它们对我的影响十分恶劣，但我却从未想着去改进、去进步。在面对所参加的知识竞赛时，比赛内容稍微复杂我就选择了放弃；在上着感兴趣的专业课程时，遇到了稍微难以理解的知识点，我选择了跳过…纵观我的三年大学生活，我仿佛很少绞尽脑汁去解决碰到的问题，很少专注于某各个知识点的学习，很少使用大脑认真地思考，在这些方面，我成长的很少。</p>
-<h3 id="导师提问"><a href="#导师提问" class="headerlink" title="导师提问"></a>导师提问</h3><p>导师们提出的问题不涉及专业知识，只是对于你的自我介绍相关内容进行提问。令我印象深刻的问题是吴乐老师的问题：“你参加了这么多竞赛，能不能通过一些过程来体现出你的亮点，或者说你的科研与编程能力？”<br>我听到这个问题后，我的整个大脑是空白的，不仅仅是因为紧张，更关键的原因是我对我自己没有清楚的认识。我究竟是怎样一个人、我的亮点是什么，这些问题，我从未去想过。<br>我或许很普通，或许没有什么特别突出的优点。但我对自己一点也不了解，我的优点有哪些，我的缺点又有哪些，我有没有想过去提升这些优点，改正这些缺点。活在人世间近乎20年，因为内向很少正视他人，但我也很少正视自己。我眼中的我是什么样子的呢？我想成为怎样的人呢？我觉得我需要仔细考虑这些问题了，我需要好好正视自己了。</p>
-<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>这是我第一次写下博客，目的在于记录下这次失败，记录下这人生中的小挫折。尽管文笔不好，逻辑较混乱，但这里是我新的起点，我希望我能成为不一样的我，不断学习、不断思考，向着远方前进。</p>
-<blockquote>
-<p>There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
       </tags>
   </entry>
 </search>
