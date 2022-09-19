@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>赛博朋克 边缘行者</title>
-    <url>/Anime/2022/09/19/cyberpunk-edgerunners.html</url>
-    <content><![CDATA[<p>其他名称：<code>サイバーパンク エッジランナーズ</code>、<code>Cyberpunk: Edgerunners</code><br>制作公司：TRIGGER<br>首播时间：2022&#x2F;09&#x2F;13</p>
-<p><img src="/images/ICE(Intrusion_Countermeasures_Electronics).png" alt="alt ICE (Intrusion Countermeasures Electronics)"><br>游戏《赛博朋克 2077》的衍生动画。动漫有着扳机社一如既往的画风，与赛博朋克风格比较搭配。</p>
-<blockquote>
-<p>大卫·马丁内斯：子弹杯里伏特加加冰，兑小可可乐。生得伟大，死得光荣。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Anime</category>
-      </categories>
-  </entry>
-  <entry>
     <title>第一次面试</title>
     <url>/Life/2022/09/03/first-interview.html</url>
     <content><![CDATA[<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>2022年9月2日晚八点左右，我参加了我人生中第一次较为正式且对我人生转折有影响的面试：合肥工业大学计算机与信息学院斛兵学子暨预推免招生面试。<br>面试流程为 ppt 自我介绍+导师提问，整个过程很短，大约七分钟左右。但这短短的七分钟，暴露了我很多问题。<br>极其简短且单调的自我介绍，只是直接把简历上的内容复述一遍；自我介绍完面试官的沉默；对我提问后我的答非所问和毫无逻辑的回答…无论面试结果如何，对我来说，这场面试是失败的。</p>
@@ -35,6 +22,19 @@
       <tags>
         <tag>面试</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>赛博朋克 边缘行者</title>
+    <url>/Anime/2022/09/19/cyberpunk-edgerunners.html</url>
+    <content><![CDATA[<p>其他名称：<code>サイバーパンク エッジランナーズ</code>、<code>Cyberpunk: Edgerunners</code><br>制作公司：TRIGGER<br>首播时间：2022&#x2F;09&#x2F;13</p>
+<p><img src="/Anime/2022/09/19/cyberpunk-edgerunners/ICE(Intrusion_Countermeasures_Electronics).jpg" alt="alt ICE (Intrusion Countermeasures Electronics)"><br>游戏《赛博朋克 2077》的衍生动画。动漫有着扳机社一如既往的画风，与赛博朋克风格比较搭配。</p>
+<blockquote>
+<p>大卫·马丁内斯：子弹杯里伏特加加冰，兑小可可乐。生得伟大，死得光荣。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Anime</category>
+      </categories>
   </entry>
   <entry>
     <title>Hexo + NexT 遇上 GitHub Pages</title>
