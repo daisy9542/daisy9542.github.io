@@ -159,11 +159,11 @@
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; gulp &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
 
 <h3 id="在文章中添加图片"><a href="#在文章中添加图片" class="headerlink" title="在文章中添加图片"></a>在文章中添加图片</h3><p>在站点目录下的 <code>source</code> 文件夹下新建图片文件夹，比如 <code>images</code>，将需要插入的图片放在该目录下，使用时使用 Markdown 语法插入图片即可。</p>
-<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">![<span class="string">anchor_text</span>](<span class="link">img_src &quot;title&quot;</span>)</span><br></pre></td></tr></table></figure>
+<figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line">![<span class="string">anchor_text</span>](<span class="link">/images/name &quot;title&quot;</span>)</span><br></pre></td></tr></table></figure>
 
 <ul>
 <li>anchor_text 源码模式或图片加载未成功时对图片的描述</li>
-<li>img_src 图片地址，可以来自本地也可来自网络</li>
+<li>name 图片文件名</li>
 <li>title 图片标题，默认鼠标悬浮显示</li>
 </ul>
 <h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ol>
