@@ -59,6 +59,37 @@
       </tags>
   </entry>
   <entry>
+    <title>fzu-cs-interview</title>
+    <url>/Life/2022/09/23/fzu-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午十点参加了福州大学计算机与大数据学院&#x2F;软件学院的推免面试，面试内容不算难，但让我措手不及，感觉回答得有点烂。(T⌓T)</p>
+<ul>
+<li>请做一个 1 min 英语自我介绍</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个上来给我整蒙了，我虽然是有准备英语自我介绍但是没背下来 :(，只能支支吾吾说了一点</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>介绍一下印象最深刻的参与的项目或者毕设</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">我介绍的一个学科竞赛，涉及到了大数据集群环境搭建（Hadoop、Zookeeper、Hive 和 Spark）、</span><br><span class="line">数据采集和处理（爬虫和数据清洗）、数据分析与挖掘（MapReduce 做基于物品的协同过滤</span><br><span class="line">ItemCF）、数据可视化（Matplotlib 和 Echarts）</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>这个比赛参与了多少队伍</li>
+<li>爬虫的过程，爬取的数据量有多大</li>
+<li>数据分析用到的算法</li>
+<li>四六级情况</li>
+<li>专业排名情况</li>
+<li>记得清楚的比赛的全名及名次</li>
+<li>大学里的其他获奖荣誉情况</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo + NexT 遇上 GitHub Pages</title>
     <url>/Tech/2022/09/04/hexo-and-next-with-github-pages.html</url>
     <content><![CDATA[<h2 id="操作环境"><a href="#操作环境" class="headerlink" title="操作环境"></a>操作环境</h2><p>我们需要什么？</p>
