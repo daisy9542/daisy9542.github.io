@@ -59,73 +59,6 @@
       </tags>
   </entry>
   <entry>
-    <title>东华大学计算机推免面试</title>
-    <url>/Life/2022/09/24/dhu-cs-interview.html</url>
-    <content><![CDATA[<p>今天上午九点半参加东华大学计算机科学与技术学院的推免面试，时长 6 分半。面试内容不算难，而且面试的老师比较和蔼，感觉不到任何压力，可以放松地回答问题。</p>
-<ul>
-<li>首先是 3 分钟的自我介绍，可以使用 PPT</li>
-<li>英译汉，给你一段英语翻译其中部分句子，题目是根据你抽到的题号来的</li>
-</ul>
-<span id="more"></span>
-
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Data mining is the process of extracting hidden patterns from large amounts of</span><br><span class="line">data. As more data is gathered, with the amount of data doubling every three</span><br><span class="line">years, data mining is becoming an increasingly important tool to transform this</span><br><span class="line">data into information. It is commonly used in a wide range of profiling practices,</span><br><span class="line">such as marketing, surveillance, fraud detection and scientific discovery.</span><br><span class="line">While data mining can be used to uncover hidden patterns in data samples that</span><br><span class="line">have been &quot;mined&quot;, it is important to be aware that the use of a sample of the</span><br><span class="line">data may produce results that are not indicative of the domain.</span><br><span class="line"></span><br><span class="line">段落较长，但只让我翻译了前两句话。Lucky! 前两句没有涉及到生词，而且数据挖掘也是我学过的</span><br><span class="line">内容，老师对我的翻译表达了肯定 o(*￣▽￣*)ブ </span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>解释一下什么是数据挖掘</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个解答上一题翻译里有，只要能翻译出来就不是问题，所以我说到一半老师就说可以了</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>看你刚才介绍了 Spark，那 Spark 用来数据分析的组件有哪些</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这里我回答了 Spark Streaming、Spark MLlib、Spark SQL，Spark GraphX 我忘记了。。</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>你们学过关于大数据的什么东西</li>
-<li>集群环境搭建用到了些什么</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">时间同步服务 ntp、Hadoop 框架、Zookeeper、Hive 数据仓库、Spark</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>福州大学计算机推免面试</title>
-    <url>/Life/2022/09/23/fzu-cs-interview.html</url>
-    <content><![CDATA[<p>今天上午十点参加了福州大学计算机与大数据学院&#x2F;软件学院的推免面试，面试内容不算难，但让我措手不及，感觉回答得有点烂。(T⌓T)</p>
-<ul>
-<li>请做一个 1 分钟英语自我介绍</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个上来给我整蒙了，我虽然是有准备英语自我介绍但是没背下来 :(，只能支支吾吾说了一点</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>介绍一下印象最深刻的参与的项目或者毕设</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">我介绍的一个学科竞赛，涉及到了大数据集群环境搭建（Hadoop、Zookeeper、Hive 和 Spark）、</span><br><span class="line">数据采集和处理（爬虫和数据清洗）、数据分析与挖掘（MapReduce 做基于物品的协同过滤</span><br><span class="line">ItemCF）、数据可视化（Matplotlib 和 Echarts）</span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<ul>
-<li>这个比赛参与了多少队伍</li>
-<li>爬虫的过程，爬取的数据量有多大</li>
-<li>数据分析用到的算法</li>
-<li>四六级情况</li>
-<li>专业排名情况</li>
-<li>记得清楚的比赛的全名及名次</li>
-<li>大学里的其他获奖荣誉情况</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo + NexT 遇上 GitHub Pages</title>
     <url>/Tech/2022/09/04/hexo-and-next-with-github-pages.html</url>
     <content><![CDATA[<h2 id="操作环境"><a href="#操作环境" class="headerlink" title="操作环境"></a>操作环境</h2><p>我们需要什么？</p>
@@ -269,6 +202,95 @@
       </categories>
       <tags>
         <tag>theme</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>东华大学计算机推免面试</title>
+    <url>/Life/2022/09/24/dhu-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午九点半参加东华大学计算机科学与技术学院的推免面试，时长 6 分半。面试内容不算难，而且面试的老师比较和蔼，感觉不到任何压力，可以放松地回答问题。</p>
+<ul>
+<li>首先是 3 分钟的自我介绍，可以使用 PPT</li>
+<li>英译汉，给你一段英语翻译其中部分句子，题目是根据你抽到的题号来的</li>
+</ul>
+<span id="more"></span>
+
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Data mining is the process of extracting hidden patterns from large amounts of</span><br><span class="line">data. As more data is gathered, with the amount of data doubling every three</span><br><span class="line">years, data mining is becoming an increasingly important tool to transform this</span><br><span class="line">data into information. It is commonly used in a wide range of profiling practices,</span><br><span class="line">such as marketing, surveillance, fraud detection and scientific discovery.</span><br><span class="line">While data mining can be used to uncover hidden patterns in data samples that</span><br><span class="line">have been &quot;mined&quot;, it is important to be aware that the use of a sample of the</span><br><span class="line">data may produce results that are not indicative of the domain.</span><br><span class="line"></span><br><span class="line">段落较长，但只让我翻译了前两句话。Lucky! 前两句没有涉及到生词，而且数据挖掘也是我学过的</span><br><span class="line">内容，老师对我的翻译表达了肯定 o(*￣▽￣*)ブ </span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>解释一下什么是数据挖掘</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个解答上一题翻译里有，只要能翻译出来就不是问题，所以我说到一半老师就说可以了</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>看你刚才介绍了 Spark，那 Spark 用来数据分析的组件有哪些</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这里我回答了 Spark Streaming、Spark MLlib、Spark SQL，Spark GraphX 我忘记了。。</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>你们学过关于大数据的什么东西</li>
+<li>集群环境搭建用到了些什么</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">时间同步服务 ntp、Hadoop 框架、Zookeeper、Hive 数据仓库、Spark</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>福州大学计算机推免面试</title>
+    <url>/Life/2022/09/23/fzu-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午十点参加了福州大学计算机与大数据学院&#x2F;软件学院的推免面试，面试内容不算难，但让我措手不及，感觉回答得有点烂。(T⌓T)</p>
+<ul>
+<li>请做一个 1 分钟英语自我介绍</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个上来给我整蒙了，我虽然是有准备英语自我介绍但是没背下来 :(，只能支支吾吾说了一点</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>介绍一下印象最深刻的参与的项目或者毕设</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">我介绍的一个学科竞赛，涉及到了大数据集群环境搭建（Hadoop、Zookeeper、Hive 和 Spark）、</span><br><span class="line">数据采集和处理（爬虫和数据清洗）、数据分析与挖掘（MapReduce 做基于物品的协同过滤</span><br><span class="line">ItemCF）、数据可视化（Matplotlib 和 Echarts）</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<ul>
+<li>这个比赛参与了多少队伍</li>
+<li>爬虫的过程，爬取的数据量有多大</li>
+<li>数据分析用到的算法</li>
+<li>四六级情况</li>
+<li>专业排名情况</li>
+<li>记得清楚的比赛的全名及名次</li>
+<li>大学里的其他获奖荣誉情况</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>南京航空航天大学计算机推免面试</title>
+    <url>/Life/2022/09/25/nuaa-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午九点参加了南京航空航天大学计算机科学与技术学院的推免面试，面试时长 9 分钟，整个过程很糟糕。面试的老师很和蔼，问的问题有些综合性，我回答的不太好，还需要多多学习。面试之前需要准备身份证和学生证，而我忘记准备了 &#x2F;(ㄒoㄒ)&#x2F;~~，还好老师们都很和蔼，对我态度非常友好。</p>
+<ul>
+<li>请问你有没有推免资格</li>
+<li>请做一个自我介绍，语速放慢，吐字清晰</li>
+<li>英语问答 - 你学的专业是什么，你喜欢吗？</li>
+<li>英语问答 - 你喜欢你的家乡吗？</li>
+<li>什么是大数据，请解释一下</li>
+<li>你是学大数据的，有没有听过同源异构，请解释一下</li>
+<li>请挑几个所学专业课进行描述并说出他们之间的支撑关系</li>
+<li>回归和分类的区别是什么</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
       </tags>
   </entry>
   <entry>
