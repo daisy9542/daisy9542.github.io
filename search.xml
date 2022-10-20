@@ -1,6 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>东华大学计算机推免面试</title>
+    <url>/Life/2022/09/24/dhu-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午九点半参加东华大学计算机科学与技术学院的推免面试，时长 6 分半。面试内容不算难，而且面试的老师比较和蔼，感觉不到任何压力，可以放松地回答问题。</p>
+<ul>
+<li>首先是 3 分钟的自我介绍，可以使用 PPT</li>
+<li>英译汉，给你一段英语翻译其中部分句子，题目是根据你抽到的题号来的</li>
+</ul>
+<span id="more"></span>
+
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Data mining is the process of extracting hidden patterns from large amounts of</span><br><span class="line">data. As more data is gathered, with the amount of data doubling every three</span><br><span class="line">years, data mining is becoming an increasingly important tool to transform this</span><br><span class="line">data into information. It is commonly used in a wide range of profiling practices,</span><br><span class="line">such as marketing, surveillance, fraud detection and scientific discovery.</span><br><span class="line">While data mining can be used to uncover hidden patterns in data samples that</span><br><span class="line">have been &quot;mined&quot;, it is important to be aware that the use of a sample of the</span><br><span class="line">data may produce results that are not indicative of the domain.</span><br><span class="line"></span><br><span class="line">段落较长，但只让我翻译了前两句话。Lucky! 前两句没有涉及到生词，而且数据挖掘也是我学过的</span><br><span class="line">内容，老师对我的翻译表达了肯定 o(*￣▽￣*)ブ </span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>解释一下什么是数据挖掘</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个解答上一题翻译里有，只要能翻译出来就不是问题，所以我说到一半老师就说可以了</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>看你刚才介绍了 Spark，那 Spark 用来数据分析的组件有哪些</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这里我回答了 Spark Streaming、Spark MLlib、Spark SQL，Spark GraphX 我忘记了。。</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>你们学过关于大数据的什么东西</li>
+<li>集群环境搭建用到了些什么</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">时间同步服务 ntp、Hadoop 框架、Zookeeper、Hive 数据仓库、Spark</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>福州大学计算机推免面试</title>
+    <url>/Life/2022/09/23/fzu-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午十点参加了福州大学计算机与大数据学院&#x2F;软件学院的推免面试，面试内容不算难，但让我措手不及，感觉回答得有点烂。(T⌓T)</p>
+<ul>
+<li>请做一个 1 分钟英语自我介绍</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个上来给我整蒙了，我虽然是有准备英语自我介绍但是没背下来 :(，只能支支吾吾说了一点</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>介绍一下印象最深刻的参与的项目或者毕设</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">我介绍的一个学科竞赛，涉及到了大数据集群环境搭建（Hadoop、Zookeeper、Hive 和 Spark）、</span><br><span class="line">数据采集和处理（爬虫和数据清洗）、数据分析与挖掘（MapReduce 做基于物品的协同过滤</span><br><span class="line">ItemCF）、数据可视化（Matplotlib 和 Echarts）</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<ul>
+<li>这个比赛参与了多少队伍</li>
+<li>爬虫的过程，爬取的数据量有多大</li>
+<li>数据分析用到的算法</li>
+<li>四六级情况</li>
+<li>专业排名情况</li>
+<li>记得清楚的比赛的全名及名次</li>
+<li>大学里的其他获奖荣誉情况</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>安徽大学计算机推免面试</title>
     <url>/Life/2022/09/22/ahu-cs-interview.html</url>
     <content><![CDATA[<p>今天下午三点参加了安徽大学计算机科学与技术学院的推免面试，时间比较短，大约 4 分钟，面试内容也比较简单，不涉及专业课、竞赛和项目相关。面试过程比较轻松，也让我没有那么紧张面对接下来的面试了。(●ˇ∀ˇ●)</p>
@@ -43,65 +110,23 @@
       </tags>
   </entry>
   <entry>
-    <title>福州大学计算机推免面试</title>
-    <url>/Life/2022/09/23/fzu-cs-interview.html</url>
-    <content><![CDATA[<p>今天上午十点参加了福州大学计算机与大数据学院&#x2F;软件学院的推免面试，面试内容不算难，但让我措手不及，感觉回答得有点烂。(T⌓T)</p>
-<ul>
-<li>请做一个 1 分钟英语自我介绍</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个上来给我整蒙了，我虽然是有准备英语自我介绍但是没背下来 :(，只能支支吾吾说了一点</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>介绍一下印象最深刻的参与的项目或者毕设</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">我介绍的一个学科竞赛，涉及到了大数据集群环境搭建（Hadoop、Zookeeper、Hive 和 Spark）、</span><br><span class="line">数据采集和处理（爬虫和数据清洗）、数据分析与挖掘（MapReduce 做基于物品的协同过滤</span><br><span class="line">ItemCF）、数据可视化（Matplotlib 和 Echarts）</span><br></pre></td></tr></table></figure>
-
+    <title>合肥工业大学计算机推免面试 - 第一次面试</title>
+    <url>/Life/2022/09/02/hfut-cs-interview.html</url>
+    <content><![CDATA[<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>2022年9月2日晚八点左右，我参加了我人生中第一次较为正式且对我人生转折有影响的面试：合肥工业大学计算机与信息学院斛兵学子暨预推免招生面试。面试流程为 ppt 自我介绍+导师提问，整个过程很短，大约七分钟左右。但这短短的七分钟，暴露了我很多问题。<br>极其简短且单调的自我介绍，只是直接把简历上的内容复述一遍；自我介绍完面试官的沉默；对我提问后我的答非所问和毫无逻辑的回答…无论面试结果如何，对我来说，这场面试是失败的。</p>
 <span id="more"></span>
 
-<ul>
-<li>这个比赛参与了多少队伍</li>
-<li>爬虫的过程，爬取的数据量有多大</li>
-<li>数据分析用到的算法</li>
-<li>四六级情况</li>
-<li>专业排名情况</li>
-<li>记得清楚的比赛的全名及名次</li>
-<li>大学里的其他获奖荣誉情况</li>
-</ul>
+<h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><p>面试中的自我介绍意义在于让面试官快速地了解自己，我们应该利用这个机会多向面试官传达一些有用的信息，让接下来的沟通更偏向于自己有利的方向。在这个环节中，我所暴露的问题有两个：</p>
+<ol>
+<li>对待事情不认真、敷衍的态度。在面试前我有充分的时间可以准备我的ppt和自我介绍，但我对面试这件事及其不上心，明明是当前最重要的事请却抛在脑后，每天无意义的摆烂和内耗。</li>
+<li>不敢正视遇到的问题。随着面试时间不断逼近，作为我的第一次面试，我没有去学习这方面的知识和经验，而是做着其他的琐事来逃避。</li>
+</ol>
+<p>回想以前，这两个缺点一直伴随着我，它们对我的影响十分恶劣，但我却从未想着去改进、去进步。在面对所参加的知识竞赛时，比赛内容稍微复杂我就选择了放弃；在上着感兴趣的专业课程时，遇到了稍微难以理解的知识点，我选择了跳过…纵观我的三年大学生活，我仿佛很少绞尽脑汁去解决碰到的问题，很少专注于某各个知识点的学习，很少使用大脑认真地思考，在这些方面，我成长的很少。</p>
+<h3 id="导师提问"><a href="#导师提问" class="headerlink" title="导师提问"></a>导师提问</h3><p>导师们提出的问题不涉及专业知识，只是对于你的自我介绍相关内容进行提问。令我印象深刻的问题是吴乐老师的问题：“你参加了这么多竞赛，能不能通过一些过程来体现出你的亮点，或者说你的科研与编程能力？”我听到这个问题后，我的整个大脑是空白的，不仅仅是因为紧张，更关键的原因是我对我自己没有清楚的认识。我究竟是怎样一个人、我的亮点是什么，这些问题，我从未去想过。<br>我或许很普通，或许没有什么特别突出的优点。但我对自己一点也不了解，我的优点有哪些，我的缺点又有哪些，我有没有想过去提升这些优点，改正这些缺点。活在人世间近乎20年，因为内向很少正视他人，但我也很少正视自己。我眼中的我是什么样子的呢？我想成为怎样的人呢？我觉得我需要仔细考虑这些问题了，我需要好好正视自己了。</p>
+<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>这是我第一次写下博客，目的在于记录下这次失败，记录下这人生中的小挫折。尽管文笔不好，逻辑较混乱，但这里是我新的起点，我希望我能成为不一样的我，不断学习、不断思考，向着远方前进。</p>
+<blockquote>
+<p>There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.</p>
+</blockquote>
 ]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>东华大学计算机推免面试</title>
-    <url>/Life/2022/09/24/dhu-cs-interview.html</url>
-    <content><![CDATA[<p>今天上午九点半参加东华大学计算机科学与技术学院的推免面试，时长 6 分半。面试内容不算难，而且面试的老师比较和蔼，感觉不到任何压力，可以放松地回答问题。</p>
-<ul>
-<li>首先是 3 分钟的自我介绍，可以使用 PPT</li>
-<li>英译汉，给你一段英语翻译其中部分句子，题目是根据你抽到的题号来的</li>
-</ul>
-<span id="more"></span>
-
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Data mining is the process of extracting hidden patterns from large amounts of</span><br><span class="line">data. As more data is gathered, with the amount of data doubling every three</span><br><span class="line">years, data mining is becoming an increasingly important tool to transform this</span><br><span class="line">data into information. It is commonly used in a wide range of profiling practices,</span><br><span class="line">such as marketing, surveillance, fraud detection and scientific discovery.</span><br><span class="line">While data mining can be used to uncover hidden patterns in data samples that</span><br><span class="line">have been &quot;mined&quot;, it is important to be aware that the use of a sample of the</span><br><span class="line">data may produce results that are not indicative of the domain.</span><br><span class="line"></span><br><span class="line">段落较长，但只让我翻译了前两句话。Lucky! 前两句没有涉及到生词，而且数据挖掘也是我学过的</span><br><span class="line">内容，老师对我的翻译表达了肯定 o(*￣▽￣*)ブ </span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>解释一下什么是数据挖掘</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个解答上一题翻译里有，只要能翻译出来就不是问题，所以我说到一半老师就说可以了</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>看你刚才介绍了 Spark，那 Spark 用来数据分析的组件有哪些</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这里我回答了 Spark Streaming、Spark MLlib、Spark SQL，Spark GraphX 我忘记了。。</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>你们学过关于大数据的什么东西</li>
-<li>集群环境搭建用到了些什么</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">时间同步服务 ntp、Hadoop 框架、Zookeeper、Hive 数据仓库、Spark</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Life</category>
       </categories>
@@ -256,36 +281,11 @@
       </tags>
   </entry>
   <entry>
-    <title>合肥工业大学计算机推免面试 - 第一次面试</title>
-    <url>/Life/2022/09/02/hfut-cs-interview.html</url>
-    <content><![CDATA[<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>2022年9月2日晚八点左右，我参加了我人生中第一次较为正式且对我人生转折有影响的面试：合肥工业大学计算机与信息学院斛兵学子暨预推免招生面试。面试流程为 ppt 自我介绍+导师提问，整个过程很短，大约七分钟左右。但这短短的七分钟，暴露了我很多问题。<br>极其简短且单调的自我介绍，只是直接把简历上的内容复述一遍；自我介绍完面试官的沉默；对我提问后我的答非所问和毫无逻辑的回答…无论面试结果如何，对我来说，这场面试是失败的。</p>
-<span id="more"></span>
-
-<h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><p>面试中的自我介绍意义在于让面试官快速地了解自己，我们应该利用这个机会多向面试官传达一些有用的信息，让接下来的沟通更偏向于自己有利的方向。在这个环节中，我所暴露的问题有两个：</p>
-<ol>
-<li>对待事情不认真、敷衍的态度。在面试前我有充分的时间可以准备我的ppt和自我介绍，但我对面试这件事及其不上心，明明是当前最重要的事请却抛在脑后，每天无意义的摆烂和内耗。</li>
-<li>不敢正视遇到的问题。随着面试时间不断逼近，作为我的第一次面试，我没有去学习这方面的知识和经验，而是做着其他的琐事来逃避。</li>
-</ol>
-<p>回想以前，这两个缺点一直伴随着我，它们对我的影响十分恶劣，但我却从未想着去改进、去进步。在面对所参加的知识竞赛时，比赛内容稍微复杂我就选择了放弃；在上着感兴趣的专业课程时，遇到了稍微难以理解的知识点，我选择了跳过…纵观我的三年大学生活，我仿佛很少绞尽脑汁去解决碰到的问题，很少专注于某各个知识点的学习，很少使用大脑认真地思考，在这些方面，我成长的很少。</p>
-<h3 id="导师提问"><a href="#导师提问" class="headerlink" title="导师提问"></a>导师提问</h3><p>导师们提出的问题不涉及专业知识，只是对于你的自我介绍相关内容进行提问。令我印象深刻的问题是吴乐老师的问题：“你参加了这么多竞赛，能不能通过一些过程来体现出你的亮点，或者说你的科研与编程能力？”我听到这个问题后，我的整个大脑是空白的，不仅仅是因为紧张，更关键的原因是我对我自己没有清楚的认识。我究竟是怎样一个人、我的亮点是什么，这些问题，我从未去想过。<br>我或许很普通，或许没有什么特别突出的优点。但我对自己一点也不了解，我的优点有哪些，我的缺点又有哪些，我有没有想过去提升这些优点，改正这些缺点。活在人世间近乎20年，因为内向很少正视他人，但我也很少正视自己。我眼中的我是什么样子的呢？我想成为怎样的人呢？我觉得我需要仔细考虑这些问题了，我需要好好正视自己了。</p>
-<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>这是我第一次写下博客，目的在于记录下这次失败，记录下这人生中的小挫折。尽管文笔不好，逻辑较混乱，但这里是我新的起点，我希望我能成为不一样的我，不断学习、不断思考，向着远方前进。</p>
-<blockquote>
-<p>There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>My Favorite Animations</title>
     <url>/Anime/2022/09/19/my-favorite-animations.html</url>
-    <content><![CDATA[<ol>
-<li>赛博朋克 边缘行者<br>其他名称：<code>サイバーパンク エッジランナーズ</code>、<code>Cyberpunk: Edgerunners</code><br>制作公司：TRIGGER<br>首播时间：2022&#x2F;09&#x2F;13</li>
-</ol>
+    <content><![CDATA[<h3 id="赛博朋克-边缘行者"><a href="#赛博朋克-边缘行者" class="headerlink" title="赛博朋克 边缘行者"></a>赛博朋克 边缘行者</h3><p>其他名称：<code>サイバーパンク エッジランナーズ</code>、<code>Cyberpunk: Edgerunners</code></p>
+<p>制作公司：TRIGGER</p>
+<p>首播时间：2022&#x2F;09&#x2F;13</p>
 <p><img src="/images/ICE(Intrusion_Countermeasures_Electronics).jpg" title="ICE (Intrusion Countermeasures Electronics)"></p>
 <blockquote>
 <p>大卫·马丁内斯：子弹杯里伏特加加冰，兑小可可乐。生得伟大，死得光荣。</p>
@@ -296,37 +296,6 @@
       </categories>
       <tags>
         <tag>television</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>该设备或资源（Web代理）未设置为接收端口“7890“上的连接解决方案</title>
-    <url>/Tech/2022/10/20/not-setup-to-accept-connections-on-port-7890.html</url>
-    <content><![CDATA[<p>今天打开电脑连上学校 WiFi 发现各网站均打不开，显示：</p>
-<blockquote>
-<p><strong>未连接到互联网</strong></p>
-<p>代理服务器出现问题，或者地址有误。</p>
-<p>请试试以下办法：</p>
-<ul>
-<li>联系系统管理员</li>
-<li>检查代理服务器地址</li>
-<li>运行 Windows 网络诊断</li>
-</ul>
-<p>ERR_PROXY_CONNECTION_FAILED</p>
-</blockquote>
-<p>尝试使用同学账号或者手机热点还是同样的结果，但是发现只有网站打不开，Tim 可以正常登录。后来发现是代理软件 Clash for Windows 未正常关闭的原因，昨天晚上关机时没有关闭系统代理，请尝试以下几种解决方案：</p>
-<ul>
-<li>启动代理软件 Clash for Windows，然后关闭。</li>
-<li>打开 Win 11 系统设置 -&gt; 网络和 Internet -&gt; 代理，在手动设置代理处关闭使用代理服务器。</li>
-<li>打开控制面板 -&gt; 网络和 Internet -&gt; Internet 选项 -&gt; 连接 -&gt; 局域网设置，在代理服务器一栏<strong>取消勾选</strong>“为 LAN 使用代理服务器(这些设置不用于拨号或 VPN 连接)”。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Tech</category>
-      </categories>
-      <tags>
-        <tag>Problems</tag>
-        <tag>WiFi</tag>
-        <tag>Proxy</tag>
       </tags>
   </entry>
   <entry>
@@ -352,9 +321,57 @@
       </tags>
   </entry>
   <entry>
-    <title>postgraduate-recommendation</title>
+    <title>该设备或资源（Web代理）未设置为接收端口“7890“上的连接解决方案</title>
+    <url>/Tech/2022/10/20/not-setup-to-accept-connections-on-port-7890.html</url>
+    <content><![CDATA[<p>今天打开电脑连上学校 WiFi 发现各网站均打不开，显示：</p>
+<blockquote>
+<p><strong>未连接到互联网</strong></p>
+<p>代理服务器出现问题，或者地址有误。</p>
+<p>请试试以下办法：</p>
+<ul>
+<li>联系系统管理员</li>
+<li>检查代理服务器地址</li>
+<li>运行 Windows 网络诊断</li>
+</ul>
+<p>ERR_PROXY_CONNECTION_FAILED</p>
+</blockquote>
+<span id="more"></span>
+
+<p>尝试使用同学账号或者手机热点还是同样的结果，但是发现只有网站打不开，Tim 可以正常登录。后来发现是代理软件 Clash for Windows 未正常关闭的原因，昨天晚上关机时没有关闭系统代理，请尝试以下几种解决方案：</p>
+<ul>
+<li>启动代理软件 Clash for Windows，然后关闭。</li>
+<li>打开 Win 11 系统设置 -&gt; 网络和 Internet -&gt; 代理，在手动设置代理处关闭使用代理服务器。</li>
+<li>打开控制面板 -&gt; 网络和 Internet -&gt; Internet 选项 -&gt; 连接 -&gt; 局域网设置，在代理服务器一栏<strong>取消勾选</strong>“为 LAN 使用代理服务器(这些设置不用于拨号或 VPN 连接)”。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Tech</category>
+      </categories>
+      <tags>
+        <tag>Problems</tag>
+        <tag>WiFi</tag>
+        <tag>Proxy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>研究生推免</title>
     <url>/Life/2022/09/28/postgraduate-recommendation.html</url>
-    <content><![CDATA[<p>2022 年 9 月 28 日 0 点</p>
+    <content><![CDATA[<p>2022 年 9 月 28 日 0 点，“全国推荐免试攻读研究生信息公开暨管理服务系统”正式开放了，基本上大部分的推免生会选择这个时间进行填报志愿，所以造成网络拥挤也是不可避免<br>. (ρ_・).。，过了五分钟我才点进去系统。志愿填报了东华大学和福州大学的计算机科学与技术，南航的计算机技术，剩下一个志愿等早上起来观察情况再填写。<br>在这里我先说一下我投的学校以及情况：</p>
+<ul>
+<li><strong>合肥工业大学</strong> 最早报名的学校，但也由于第一次面试，准备不充分，内心紧张，所以没被录取。</li>
+<li><strong>安徽大学</strong> 作为保底学校报名，但面试结果也没有想象的那么好，排名 75&#x2F;120。</li>
+<li><strong>福州大学</strong> 报名学硕人数较多，专硕人数偏少，然后专硕指标又扩招，但报名学硕人数远大于专硕人数。学硕指标 27 个，我的面试成绩排名<br>34&#x2F;91，34~37 分数相同。</li>
+<li><strong>东华大学</strong> 群里三百多人，面试人数和面试成绩及其排名均未公布，但我想争取一下，保研去上海是我大一时的梦想 (●ˇ∀ˇ●)。</li>
+<li><strong>南京航空航天大学</strong> 看官网复试名单有 1412 人，超级恐怖。我报的计算机专硕，成绩排名 278&#x2F;292，大抵是寄了，所以不报什么希望。</li>
+<li><strong>深圳大学</strong> 给我打电话的时候我正打算去吃饭，说让我准备二十分钟然后面试，让我措手不及。不过打电话的时间是 25<br>号下午，这会我已经有意向院校了，而且我家里人也不同意我去双非院校，所以给拒绝了。</li>
+<li><strong>华东理工大学</strong> 报名了计算机学硕，但是好像没有名额了，也没有给我任何回信，不了了之。</li>
+<li><strong>上海大学</strong> 投了计算机学硕，但后面要求提交教授推荐信、中英文简历和自我介绍，我觉得很麻烦就没有继续了。</li>
+</ul>
+<p>到了中午十二点，各大学校开始陆续发 offer。老师那边的网络还是十分拥挤，学生这边正常。</p>
+<p>福州大学最先发来学硕复试通知，我点击同意后，很快就给我发了待录取通知 Σ(っ °Д °;)<br>っ，没人报福大的么，不过我还是想冲一冲东华。大约一点左右，东华发来了复试通知，我立即点了同意，但没有发待录取的消息了。</p>
+<p>在焦急地等待东华的待录取通知时，南航突然给我打电话来，问我要不要工程博士的名额。我排名快到末尾了，这个机会竟然轮得到我，不过我并没有读博的想法，给拒绝了。随后，南航给我发来了复试通知，我抱着疑问点击同意复试，然后就没消息了。</p>
+<p>到下午两点半时，福州大学给我打来了三个电话让我赶紧同意待录取通知吗，家里人也一直建议我选福州大学，我还在焦急地等东华大学的消息。就在刚接完第三个电话时，东华大学研究生助理私聊我，问我愿不愿意调剂至软件工程学硕，我果断地同意了，所以拒绝了福州大学的待录取。<br><img src="/images/pending_admission.jpg" title="东华大学待录取通知"></p>
+<p>至此，我的保研路就这样结束了。保研去了东华大学，也算是实现了我大一时候的愿望。这次选择学校如同当初选择专业一样没有听取家人的建议，没有选择南航的直博，没有选择离姑姑家近的福州大学，而是选择了在魔都上海的东华大学。这是我自己做出的选择，希望我能坚持下去，为将来不为这个决定后悔而努力。</p>
 ]]></content>
       <categories>
         <category>Life</category>
