@@ -1,40 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>东华大学计算机推免面试</title>
-    <url>/Life/2022/09/24/dhu-cs-interview.html</url>
-    <content><![CDATA[<p>今天上午九点半参加东华大学计算机科学与技术学院的推免面试，时长 6 分半。面试内容不算难，而且面试的老师比较和蔼，感觉不到任何压力，可以放松地回答问题。</p>
-<ul>
-<li>首先是 3 分钟的自我介绍，可以使用 PPT</li>
-<li>英译汉，给你一段英语翻译其中部分句子，题目是根据你抽到的题号来的</li>
-</ul>
-<span id="more"></span>
-
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Data mining is the process of extracting hidden patterns from large amounts of</span><br><span class="line">data. As more data is gathered, with the amount of data doubling every three</span><br><span class="line">years, data mining is becoming an increasingly important tool to transform this</span><br><span class="line">data into information. It is commonly used in a wide range of profiling practices,</span><br><span class="line">such as marketing, surveillance, fraud detection and scientific discovery.</span><br><span class="line">While data mining can be used to uncover hidden patterns in data samples that</span><br><span class="line">have been &quot;mined&quot;, it is important to be aware that the use of a sample of the</span><br><span class="line">data may produce results that are not indicative of the domain.</span><br><span class="line"></span><br><span class="line">段落较长，但只让我翻译了前两句话。Lucky! 前两句没有涉及到生词，而且数据挖掘也是我学过的</span><br><span class="line">内容，老师对我的翻译表达了肯定 o(*￣▽￣*)ブ </span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>解释一下什么是数据挖掘</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个解答上一题翻译里有，只要能翻译出来就不是问题，所以我说到一半老师就说可以了</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>看你刚才介绍了 Spark，那 Spark 用来数据分析的组件有哪些</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这里我回答了 Spark Streaming、Spark MLlib、Spark SQL，Spark GraphX 我忘记了。。</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>你们学过关于大数据的什么东西</li>
-<li>集群环境搭建用到了些什么</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">时间同步服务 ntp、Hadoop 框架、Zookeeper、Hive 数据仓库、Spark</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>福州大学计算机推免面试</title>
     <url>/Life/2022/09/23/fzu-cs-interview.html</url>
     <content><![CDATA[<p>今天上午十点参加了福州大学计算机与大数据学院&#x2F;软件学院的推免面试，面试内容不算难，但让我措手不及，感觉回答得有点烂。(T⌓T)</p>
@@ -107,6 +73,98 @@
       </categories>
       <tags>
         <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>东华大学计算机推免面试</title>
+    <url>/Life/2022/09/24/dhu-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午九点半参加东华大学计算机科学与技术学院的推免面试，时长 6 分半。面试内容不算难，而且面试的老师比较和蔼，感觉不到任何压力，可以放松地回答问题。</p>
+<ul>
+<li>首先是 3 分钟的自我介绍，可以使用 PPT</li>
+<li>英译汉，给你一段英语翻译其中部分句子，题目是根据你抽到的题号来的</li>
+</ul>
+<span id="more"></span>
+
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Data mining is the process of extracting hidden patterns from large amounts of</span><br><span class="line">data. As more data is gathered, with the amount of data doubling every three</span><br><span class="line">years, data mining is becoming an increasingly important tool to transform this</span><br><span class="line">data into information. It is commonly used in a wide range of profiling practices,</span><br><span class="line">such as marketing, surveillance, fraud detection and scientific discovery.</span><br><span class="line">While data mining can be used to uncover hidden patterns in data samples that</span><br><span class="line">have been &quot;mined&quot;, it is important to be aware that the use of a sample of the</span><br><span class="line">data may produce results that are not indicative of the domain.</span><br><span class="line"></span><br><span class="line">段落较长，但只让我翻译了前两句话。Lucky! 前两句没有涉及到生词，而且数据挖掘也是我学过的</span><br><span class="line">内容，老师对我的翻译表达了肯定 o(*￣▽￣*)ブ </span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>解释一下什么是数据挖掘</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个解答上一题翻译里有，只要能翻译出来就不是问题，所以我说到一半老师就说可以了</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>看你刚才介绍了 Spark，那 Spark 用来数据分析的组件有哪些</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这里我回答了 Spark Streaming、Spark MLlib、Spark SQL，Spark GraphX 我忘记了。。</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>你们学过关于大数据的什么东西</li>
+<li>集群环境搭建用到了些什么</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">时间同步服务 ntp、Hadoop 框架、Zookeeper、Hive 数据仓库、Spark</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>合肥工业大学计算机推免面试 - 第一次面试</title>
+    <url>/Life/2022/09/02/hfut-cs-interview.html</url>
+    <content><![CDATA[<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>2022年9月2日晚八点左右，我参加了我人生中第一次较为正式且对我人生转折有影响的面试：合肥工业大学计算机与信息学院斛兵学子暨预推免招生面试。面试流程为 ppt 自我介绍+导师提问，整个过程很短，大约七分钟左右。但这短短的七分钟，暴露了我很多问题。<br>极其简短且单调的自我介绍，只是直接把简历上的内容复述一遍；自我介绍完面试官的沉默；对我提问后我的答非所问和毫无逻辑的回答…无论面试结果如何，对我来说，这场面试是失败的。</p>
+<span id="more"></span>
+
+<h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><p>面试中的自我介绍意义在于让面试官快速地了解自己，我们应该利用这个机会多向面试官传达一些有用的信息，让接下来的沟通更偏向于自己有利的方向。在这个环节中，我所暴露的问题有两个：</p>
+<ol>
+<li>对待事情不认真、敷衍的态度。在面试前我有充分的时间可以准备我的ppt和自我介绍，但我对面试这件事及其不上心，明明是当前最重要的事请却抛在脑后，每天无意义的摆烂和内耗。</li>
+<li>不敢正视遇到的问题。随着面试时间不断逼近，作为我的第一次面试，我没有去学习这方面的知识和经验，而是做着其他的琐事来逃避。</li>
+</ol>
+<p>回想以前，这两个缺点一直伴随着我，它们对我的影响十分恶劣，但我却从未想着去改进、去进步。在面对所参加的知识竞赛时，比赛内容稍微复杂我就选择了放弃；在上着感兴趣的专业课程时，遇到了稍微难以理解的知识点，我选择了跳过…纵观我的三年大学生活，我仿佛很少绞尽脑汁去解决碰到的问题，很少专注于某各个知识点的学习，很少使用大脑认真地思考，在这些方面，我成长的很少。</p>
+<h3 id="导师提问"><a href="#导师提问" class="headerlink" title="导师提问"></a>导师提问</h3><p>导师们提出的问题不涉及专业知识，只是对于你的自我介绍相关内容进行提问。令我印象深刻的问题是吴乐老师的问题：“你参加了这么多竞赛，能不能通过一些过程来体现出你的亮点，或者说你的科研与编程能力？”我听到这个问题后，我的整个大脑是空白的，不仅仅是因为紧张，更关键的原因是我对我自己没有清楚的认识。我究竟是怎样一个人、我的亮点是什么，这些问题，我从未去想过。<br>我或许很普通，或许没有什么特别突出的优点。但我对自己一点也不了解，我的优点有哪些，我的缺点又有哪些，我有没有想过去提升这些优点，改正这些缺点。活在人世间近乎20年，因为内向很少正视他人，但我也很少正视自己。我眼中的我是什么样子的呢？我想成为怎样的人呢？我觉得我需要仔细考虑这些问题了，我需要好好正视自己了。</p>
+<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>这是我第一次写下博客，目的在于记录下这次失败，记录下这人生中的小挫折。尽管文笔不好，逻辑较混乱，但这里是我新的起点，我希望我能成为不一样的我，不断学习、不断思考，向着远方前进。</p>
+<blockquote>
+<p>There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>该设备或资源（Web代理）未设置为接收端口“7890“上的连接解决方案</title>
+    <url>/Tech/2022/10/20/not-setup-to-accept-connections-on-port-7890.html</url>
+    <content><![CDATA[<p>今天打开电脑连上学校 WiFi 发现各网站均打不开，显示：</p>
+<blockquote>
+<p><strong>未连接到互联网</strong></p>
+<p>代理服务器出现问题，或者地址有误。</p>
+<p>请试试以下办法：</p>
+<ul>
+<li>联系系统管理员</li>
+<li>检查代理服务器地址</li>
+<li>运行 Windows 网络诊断</li>
+</ul>
+<p>ERR_PROXY_CONNECTION_FAILED</p>
+</blockquote>
+<span id="more"></span>
+
+<p>尝试使用同学账号或者手机热点还是同样的结果，但是发现只有网站打不开，Tim 可以正常登录。后来发现是代理软件 Clash for Windows 未正常关闭的原因，昨天晚上关机时没有关闭系统代理，请尝试以下几种解决方案：</p>
+<ul>
+<li>启动代理软件 Clash for Windows，然后关闭。</li>
+<li>打开 Win 11 系统设置 -&gt; 网络和 Internet -&gt; 代理，在手动设置代理处关闭使用代理服务器。</li>
+<li>打开控制面板 -&gt; 网络和 Internet -&gt; Internet 选项 -&gt; 连接 -&gt; 局域网设置，在代理服务器一栏<strong>取消勾选</strong>“为 LAN 使用代理服务器(这些设置不用于拨号或 VPN 连接)”。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Tech</category>
+      </categories>
+      <tags>
+        <tag>Problems</tag>
+        <tag>WiFi</tag>
+        <tag>Proxy</tag>
       </tags>
   </entry>
   <entry>
@@ -274,22 +332,19 @@
       </tags>
   </entry>
   <entry>
-    <title>合肥工业大学计算机推免面试 - 第一次面试</title>
-    <url>/Life/2022/09/02/hfut-cs-interview.html</url>
-    <content><![CDATA[<h2 id="面试"><a href="#面试" class="headerlink" title="面试"></a>面试</h2><p>2022年9月2日晚八点左右，我参加了我人生中第一次较为正式且对我人生转折有影响的面试：合肥工业大学计算机与信息学院斛兵学子暨预推免招生面试。面试流程为 ppt 自我介绍+导师提问，整个过程很短，大约七分钟左右。但这短短的七分钟，暴露了我很多问题。<br>极其简短且单调的自我介绍，只是直接把简历上的内容复述一遍；自我介绍完面试官的沉默；对我提问后我的答非所问和毫无逻辑的回答…无论面试结果如何，对我来说，这场面试是失败的。</p>
-<span id="more"></span>
-
-<h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><p>面试中的自我介绍意义在于让面试官快速地了解自己，我们应该利用这个机会多向面试官传达一些有用的信息，让接下来的沟通更偏向于自己有利的方向。在这个环节中，我所暴露的问题有两个：</p>
-<ol>
-<li>对待事情不认真、敷衍的态度。在面试前我有充分的时间可以准备我的ppt和自我介绍，但我对面试这件事及其不上心，明明是当前最重要的事请却抛在脑后，每天无意义的摆烂和内耗。</li>
-<li>不敢正视遇到的问题。随着面试时间不断逼近，作为我的第一次面试，我没有去学习这方面的知识和经验，而是做着其他的琐事来逃避。</li>
-</ol>
-<p>回想以前，这两个缺点一直伴随着我，它们对我的影响十分恶劣，但我却从未想着去改进、去进步。在面对所参加的知识竞赛时，比赛内容稍微复杂我就选择了放弃；在上着感兴趣的专业课程时，遇到了稍微难以理解的知识点，我选择了跳过…纵观我的三年大学生活，我仿佛很少绞尽脑汁去解决碰到的问题，很少专注于某各个知识点的学习，很少使用大脑认真地思考，在这些方面，我成长的很少。</p>
-<h3 id="导师提问"><a href="#导师提问" class="headerlink" title="导师提问"></a>导师提问</h3><p>导师们提出的问题不涉及专业知识，只是对于你的自我介绍相关内容进行提问。令我印象深刻的问题是吴乐老师的问题：“你参加了这么多竞赛，能不能通过一些过程来体现出你的亮点，或者说你的科研与编程能力？”我听到这个问题后，我的整个大脑是空白的，不仅仅是因为紧张，更关键的原因是我对我自己没有清楚的认识。我究竟是怎样一个人、我的亮点是什么，这些问题，我从未去想过。<br>我或许很普通，或许没有什么特别突出的优点。但我对自己一点也不了解，我的优点有哪些，我的缺点又有哪些，我有没有想过去提升这些优点，改正这些缺点。活在人世间近乎20年，因为内向很少正视他人，但我也很少正视自己。我眼中的我是什么样子的呢？我想成为怎样的人呢？我觉得我需要仔细考虑这些问题了，我需要好好正视自己了。</p>
-<h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>这是我第一次写下博客，目的在于记录下这次失败，记录下这人生中的小挫折。尽管文笔不好，逻辑较混乱，但这里是我新的起点，我希望我能成为不一样的我，不断学习、不断思考，向着远方前进。</p>
-<blockquote>
-<p>There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.</p>
-</blockquote>
+    <title>南京航空航天大学计算机推免面试</title>
+    <url>/Life/2022/09/25/nuaa-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午九点参加了南京航空航天大学计算机科学与技术学院的推免面试，面试时长 9 分钟，整个过程很糟糕。面试的老师很和蔼，问的问题有些综合性，我回答的不太好，还需要多多学习。面试之前需要准备身份证和学生证，而我忘记准备了 &#x2F;(ㄒoㄒ)&#x2F;~~，还好老师们都很和蔼，对我态度非常友好。</p>
+<ul>
+<li>请问你有没有推免资格</li>
+<li>请做一个自我介绍，语速放慢，吐字清晰</li>
+<li>英语问答 - 你学的专业是什么，你喜欢吗？</li>
+<li>英语问答 - 你喜欢你的家乡吗？</li>
+<li>什么是大数据，请解释一下</li>
+<li>你是学大数据的，有没有听过同源异构，请解释一下</li>
+<li>请挑几个所学专业课进行描述并说出他们之间的支撑关系</li>
+<li>回归和分类的区别是什么</li>
+</ul>
 ]]></content>
       <categories>
         <category>Life</category>
@@ -321,60 +376,5 @@
       <categories>
         <category>Life</category>
       </categories>
-  </entry>
-  <entry>
-    <title>该设备或资源（Web代理）未设置为接收端口“7890“上的连接解决方案</title>
-    <url>/Tech/2022/10/20/not-setup-to-accept-connections-on-port-7890.html</url>
-    <content><![CDATA[<p>今天打开电脑连上学校 WiFi 发现各网站均打不开，显示：</p>
-<blockquote>
-<p><strong>未连接到互联网</strong></p>
-<p>代理服务器出现问题，或者地址有误。</p>
-<p>请试试以下办法：</p>
-<ul>
-<li>联系系统管理员</li>
-<li>检查代理服务器地址</li>
-<li>运行 Windows 网络诊断</li>
-</ul>
-<p>ERR_PROXY_CONNECTION_FAILED</p>
-</blockquote>
-<span id="more"></span>
-
-<p>尝试使用同学账号或者手机热点还是同样的结果，但是发现只有网站打不开，Tim 可以正常登录。后来发现是代理软件 Clash for Windows 未正常关闭的原因，昨天晚上关机时没有关闭系统代理，请尝试以下几种解决方案：</p>
-<ul>
-<li>启动代理软件 Clash for Windows，然后关闭。</li>
-<li>打开 Win 11 系统设置 -&gt; 网络和 Internet -&gt; 代理，在手动设置代理处关闭使用代理服务器。</li>
-<li>打开控制面板 -&gt; 网络和 Internet -&gt; Internet 选项 -&gt; 连接 -&gt; 局域网设置，在代理服务器一栏<strong>取消勾选</strong>“为 LAN 使用代理服务器(这些设置不用于拨号或 VPN 连接)”。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Tech</category>
-      </categories>
-      <tags>
-        <tag>Problems</tag>
-        <tag>WiFi</tag>
-        <tag>Proxy</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>南京航空航天大学计算机推免面试</title>
-    <url>/Life/2022/09/25/nuaa-cs-interview.html</url>
-    <content><![CDATA[<p>今天上午九点参加了南京航空航天大学计算机科学与技术学院的推免面试，面试时长 9 分钟，整个过程很糟糕。面试的老师很和蔼，问的问题有些综合性，我回答的不太好，还需要多多学习。面试之前需要准备身份证和学生证，而我忘记准备了 &#x2F;(ㄒoㄒ)&#x2F;~~，还好老师们都很和蔼，对我态度非常友好。</p>
-<ul>
-<li>请问你有没有推免资格</li>
-<li>请做一个自我介绍，语速放慢，吐字清晰</li>
-<li>英语问答 - 你学的专业是什么，你喜欢吗？</li>
-<li>英语问答 - 你喜欢你的家乡吗？</li>
-<li>什么是大数据，请解释一下</li>
-<li>你是学大数据的，有没有听过同源异构，请解释一下</li>
-<li>请挑几个所学专业课进行描述并说出他们之间的支撑关系</li>
-<li>回归和分类的区别是什么</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
   </entry>
 </search>
