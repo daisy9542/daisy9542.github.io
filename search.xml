@@ -1,40 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>东华大学计算机推免面试</title>
-    <url>/Life/2022/09/24/dhu-cs-interview.html</url>
-    <content><![CDATA[<p>今天上午九点半参加东华大学计算机科学与技术学院的推免面试，时长 6 分半。面试内容不算难，而且面试的老师比较和蔼，感觉不到任何压力，可以放松地回答问题。</p>
-<ul>
-<li>首先是 3 分钟的自我介绍，可以使用 PPT</li>
-<li>英译汉，给你一段英语翻译其中部分句子，题目是根据你抽到的题号来的</li>
-</ul>
-<span id="more"></span>
-
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Data mining is the process of extracting hidden patterns from large amounts of</span><br><span class="line">data. As more data is gathered, with the amount of data doubling every three</span><br><span class="line">years, data mining is becoming an increasingly important tool to transform this</span><br><span class="line">data into information. It is commonly used in a wide range of profiling practices,</span><br><span class="line">such as marketing, surveillance, fraud detection and scientific discovery.</span><br><span class="line">While data mining can be used to uncover hidden patterns in data samples that</span><br><span class="line">have been &quot;mined&quot;, it is important to be aware that the use of a sample of the</span><br><span class="line">data may produce results that are not indicative of the domain.</span><br><span class="line"></span><br><span class="line">段落较长，但只让我翻译了前两句话。Lucky! 前两句没有涉及到生词，而且数据挖掘也是我学过的</span><br><span class="line">内容，老师对我的翻译表达了肯定 o(*￣▽￣*)ブ </span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>解释一下什么是数据挖掘</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个解答上一题翻译里有，只要能翻译出来就不是问题，所以我说到一半老师就说可以了</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>看你刚才介绍了 Spark，那 Spark 用来数据分析的组件有哪些</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这里我回答了 Spark Streaming、Spark MLlib、Spark SQL，Spark GraphX 我忘记了。。</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>你们学过关于大数据的什么东西</li>
-<li>集群环境搭建用到了些什么</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">时间同步服务 ntp、Hadoop 框架、Zookeeper、Hive 数据仓库、Spark</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>安徽大学计算机推免面试</title>
     <url>/Life/2022/09/22/ahu-cs-interview.html</url>
     <content><![CDATA[<p>今天下午三点参加了安徽大学计算机科学与技术学院的推免面试，时间比较短，大约 4 分钟，面试内容也比较简单，不涉及专业课、竞赛和项目相关。面试过程比较轻松，也让我没有那么紧张面对接下来的面试了。(●ˇ∀ˇ●)</p>
@@ -77,130 +43,37 @@
       </tags>
   </entry>
   <entry>
-    <title>福州大学计算机推免面试</title>
-    <url>/Life/2022/09/23/fzu-cs-interview.html</url>
-    <content><![CDATA[<p>今天上午十点参加了福州大学计算机与大数据学院&#x2F;软件学院的推免面试，面试内容不算难，但让我措手不及，感觉回答得有点烂。(T⌓T)</p>
+    <title>东华大学计算机推免面试</title>
+    <url>/Life/2022/09/24/dhu-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午九点半参加东华大学计算机科学与技术学院的推免面试，时长 6 分半。面试内容不算难，而且面试的老师比较和蔼，感觉不到任何压力，可以放松地回答问题。</p>
 <ul>
-<li>请做一个 1 分钟英语自我介绍</li>
+<li>首先是 3 分钟的自我介绍，可以使用 PPT</li>
+<li>英译汉，给你一段英语翻译其中部分句子，题目是根据你抽到的题号来的</li>
 </ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个上来给我整蒙了，我虽然是有准备英语自我介绍但是没背下来 :(，只能支支吾吾说了一点</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>介绍一下印象最深刻的参与的项目或者毕设</li>
-</ul>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">我介绍的一个学科竞赛，涉及到了大数据集群环境搭建（Hadoop、Zookeeper、Hive 和 Spark）、</span><br><span class="line">数据采集和处理（爬虫和数据清洗）、数据分析与挖掘（MapReduce 做基于物品的协同过滤</span><br><span class="line">ItemCF）、数据可视化（Matplotlib 和 Echarts）</span><br></pre></td></tr></table></figure>
-
 <span id="more"></span>
 
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Data mining is the process of extracting hidden patterns from large amounts of</span><br><span class="line">data. As more data is gathered, with the amount of data doubling every three</span><br><span class="line">years, data mining is becoming an increasingly important tool to transform this</span><br><span class="line">data into information. It is commonly used in a wide range of profiling practices,</span><br><span class="line">such as marketing, surveillance, fraud detection and scientific discovery.</span><br><span class="line">While data mining can be used to uncover hidden patterns in data samples that</span><br><span class="line">have been &quot;mined&quot;, it is important to be aware that the use of a sample of the</span><br><span class="line">data may produce results that are not indicative of the domain.</span><br><span class="line"></span><br><span class="line">段落较长，但只让我翻译了前两句话。Lucky! 前两句没有涉及到生词，而且数据挖掘也是我学过的</span><br><span class="line">内容，老师对我的翻译表达了肯定 o(*￣▽￣*)ブ </span><br></pre></td></tr></table></figure>
+
 <ul>
-<li>这个比赛参与了多少队伍</li>
-<li>爬虫的过程，爬取的数据量有多大</li>
-<li>数据分析用到的算法</li>
-<li>四六级情况</li>
-<li>专业排名情况</li>
-<li>记得清楚的比赛的全名及名次</li>
-<li>大学里的其他获奖荣誉情况</li>
+<li>解释一下什么是数据挖掘</li>
 </ul>
-]]></content>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个解答上一题翻译里有，只要能翻译出来就不是问题，所以我说到一半老师就说可以了</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>看你刚才介绍了 Spark，那 Spark 用来数据分析的组件有哪些</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这里我回答了 Spark Streaming、Spark MLlib、Spark SQL，Spark GraphX 我忘记了。。</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>你们学过关于大数据的什么东西</li>
+<li>集群环境搭建用到了些什么</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">时间同步服务 ntp、Hadoop 框架、Zookeeper、Hive 数据仓库、Spark</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>Life</category>
       </categories>
       <tags>
         <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一份实习</title>
-    <url>/Life/2022/11/02/first-internship.html</url>
-    <content><![CDATA[<p>原本计划面试同城旅行的数据分析岗，结果在准备投递简历那天职位需求下架了。所以在同学的鼓励和帮助下，尝试了京东的岗位面试。<br>第一次面试在 2022.10.26 上午十点，采用在线面试的形式，使用京东的 JoyMeeting 软件。</p>
-<p>由于是第一次实习面试，有些紧张是自然的，一个人在寝室里端坐着。到了十点，双方互相打了招呼后，正式开始面试。首先是我自我介绍，然后问了我参加的一个比赛和所负责的内容。接着是一道 SQL 题，这是唯一的技术性的问题，而且难度较低，题目如下：</p>
-<span id="more"></span>
-
-<table>
-<thead>
-<tr>
-<th>id</th>
-<th>user_id</th>
-<th>sku_id</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>1</td>
-<td>1</td>
-<td>a</td>
-</tr>
-<tr>
-<td>2</td>
-<td>1</td>
-<td>b</td>
-</tr>
-<tr>
-<td>3</td>
-<td>1</td>
-<td>c</td>
-</tr>
-<tr>
-<td>4</td>
-<td>2</td>
-<td>a</td>
-</tr>
-<tr>
-<td>5</td>
-<td>2</td>
-<td>b</td>
-</tr>
-<tr>
-<td>6</td>
-<td>3</td>
-<td>a</td>
-</tr>
-<tr>
-<td>7</td>
-<td>3</td>
-<td>b</td>
-</tr>
-<tr>
-<td>8</td>
-<td>3</td>
-<td>c</td>
-</tr>
-<tr>
-<td>9</td>
-<td>3</td>
-<td>d</td>
-</tr>
-</tbody></table>
-<ol>
-<li>求至少购买了商品 a、b、c 的用户；</li>
-<li>求至少购买了商品 a、b、c 的用户购买的物品数。</li>
-</ol>
-<p>然后问到我参加的比赛或者项目中遇到的难点，我是如何解决的、你的优缺点和最后的反问环节。</p>
-<p>通过 HR，面试的结果十几分钟就能知道结果，很遗憾，面试没有通过，得到的反馈是：</p>
-<ul>
-<li>在面试过程中展现出的抗压能力未达到岗位要求；</li>
-<li>自我评价时内向，这个岗位需要多方沟通；</li>
-<li>最后的反问环节说没有问题，表现出有点自我放弃。</li>
-</ul>
-<p>由于是第一次面试，我缺乏很多相关的经验，也没有去了解面试常见问题和禁忌。从个人角度来看，首先是抗压能力，在平时参加比赛或项目的过程中，应该深入理解项目架构、原理、执行过程，遇到困难时认真去克服并做好相应的记录；然后是面试时的自我评价环节，需要向面试官展示真诚的一面，同时考虑自己的优缺点与岗位的匹配度，陈述对该岗位有力的有点并举例说明，表达缺点时要避开对岗位要求不利的点，并说出未来的举措；面试时要保持自信，包括衣着得体、肢体语言，不要过分紧张，回答问题前先进行思考，避免给对方留下不好的印象。</p>
-<hr>
-<p>面试失败后，同学立即联系 HR 帮我内推另一个岗位，安排面试时间在 2022.10.27 上午十点。针对第一次面试时的失败，应该做好反思，思考失败的原因以及如何去解决。<br>第二次面试时，面试官与昨天的不一样，但面试问题却相差无几，甚至连 SQL<br>问题也是相同的，只多了一个你的学习方法是什么。但这次面试我说话的声音更大了，回答问题时伴随着肢体动作。对比赛和项目中遇到的难点提前做好了准备，面试时也能很好的回答上来。回答自己的优缺点时，避免了内向这个字眼，谈自己过于乐于助人而容易耽误自己的计划。最后的反问环节，我提了两个问题，也可以说是这个环节的标准答案：</p>
-<ul>
-<li>请问我在这个岗位所担任的职责或任务是什么；</li>
-<li>请问面试官我在这次面试过程中有没有不足的地方，请给予我一个反馈以供改正提升。</li>
-</ul>
-<p>这次面试吸收了前次失败的经验，对不足的地方进行了反思，所以最后在 10 月 30 日拿到了 offer，计划于 11 月 2 日到岗。面试时面试官给予的反馈是我的表达能力不足，对数据的认识不足，这是需要提升的地方。</p>
-<p>至此我的面试告一段落，我也因此有了能去大厂实习的机会，能去见识北京这个大城市的机会，在此之前我曾未此想过，所以万事要敢于尝试，在不自负的同时也要保持自信，那些不可能的事情也许是很轻松就能解决的，敢于向前踏出一小步，这样自己才能够成长。</p>
-<blockquote>
-<p>Countless hard attempts do not necessarily lead to success. To give up trying means to give up success forever.</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-        <tag>京东</tag>
-        <tag>实习</tag>
       </tags>
   </entry>
   <entry>
@@ -226,76 +99,6 @@
       </categories>
       <tags>
         <tag>面试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>MySQl 从文件导入数据</title>
-    <url>/Tech/2022/11/11/mysql-load-data.html</url>
-    <content><![CDATA[<h1 id="MySQL-LOAD-DATA-Statement"><a href="#MySQL-LOAD-DATA-Statement" class="headerlink" title="MySQL - LOAD DATA Statement"></a>MySQL - LOAD DATA Statement</h1><p>MySQl Server 参考版本：8.0.22</p>
-<h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><p>如果想要将本地文件中的数据导入到 MySQL 表中，可以使用 <code>LOAD DATA</code> 语句，语法如下：</p>
-<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA</span><br><span class="line">   [<span class="keyword">LOCAL</span>]</span><br><span class="line">      INFILE <span class="string">&#x27;file_name&#x27;</span></span><br><span class="line">      [REPLACE | IGNORE]</span><br><span class="line">      <span class="keyword">INTO</span> <span class="keyword">TABLE</span> <span class="built_in">table_name</span></span><br><span class="line">      [&#123;FIELDS | <span class="keyword">COLUMNS</span>&#125;</span><br><span class="line">         [TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;string&#x27;</span>]</span><br><span class="line">         [[OPTIONALLY] ENCLOSED <span class="keyword">BY</span> <span class="string">&#x27;char&#x27;</span>]</span><br><span class="line">         [ESCAPED <span class="keyword">BY</span> <span class="string">&#x27;char&#x27;</span>]</span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<h2 id="权限检查"><a href="#权限检查" class="headerlink" title="权限检查"></a>权限检查</h2><p>在导入数据之前，需要先检查 MySQl 的一些配置项。</p>
-<ol>
-<li><p>检查是否启用了 <code>local_infile</code>，显示该变量的值：</p>
-<figure class="highlight sql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">SHOW</span> <span class="keyword">GLOBAL</span> VARIABLES <span class="keyword">LIKE</span> <span class="string">&#x27;local_infile&#x27;</span>;</span><br></pre></td></tr></table></figure>
-
-<p>若该变量的值为 <code>OFF</code>，则设置其值为 <code>ON</code>：</p>
-<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">SET GLOBAL local_infile</span> = <span class="string">&#x27;ON&#x27;</span>;</span><br></pre></td></tr></table></figure>
-</li>
-<li><p>给予数据库（如 test）中相应的表的文件权限或所有权限（ALL）：</p>
-<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">GRANT</span> <span class="keyword">ALL</span> <span class="keyword">ON</span> test.* <span class="keyword">TO</span> <span class="string">&#x27;root&#x27;</span>@<span class="string">&#x27;localhost&#x27;</span>;</span><br></pre></td></tr></table></figure>
-</li>
-<li><p>检查变量 <code>secure-file-priv</code> 的值，该变量用于限制数据导入和导出操作的权限，例如 <code>LOAD DATA</code> 和 <code>INTO OUTFILE</code> 语句。</p>
-<figure class="highlight gams"><table><tr><td class="code"><pre><span class="line">SHOW <span class="keyword">VARIABLES</span> LIKE <span class="comment">&#x27;%secure-file-priv%&#x27;</span>;</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li>若值为空，表示没有安全设置；</li>
-<li>若值为目录路径，服务器的导入和导出操作仅处理该目录下的文件；</li>
-<li>若值为 NULL，服务器禁用导入和导出操作。</li>
-</ul>
-<p>可根据需求设置该变量的值。</p>
-</li>
-</ol>
-<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><h3 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h3><p>假设创建了一张表 <code>demo</code>：</p>
-<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">CREATE</span> <span class="keyword">TABLE</span> demo (<span class="type">name</span> <span class="type">VARCHAR</span>(<span class="number">20</span>));</span><br></pre></td></tr></table></figure>
-
-<p>需要将 <code>dir_path</code> 目录下的文件 <code>test.txt</code> 导入该表中，其内容为：</p>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Alice</span><br><span class="line">Bob</span><br><span class="line">Candy</span><br><span class="line">Divid</span><br></pre></td></tr></table></figure>
-
-<p>导入文本数据至表中：</p>
-<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA INFILE &quot;dir_path/test.txt&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> demo;</span><br></pre></td></tr></table></figure>
-
-<h3 id="指定字段和行分隔符"><a href="#指定字段和行分隔符" class="headerlink" title="指定字段和行分隔符"></a>指定字段和行分隔符</h3><p>若文件中一行不止一个字段，字段的分隔符为 <code>,</code>，行的分隔符为 <code>\n</code>，则语句如下：</p>
-<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA INFILE &quot;dir_path/data.csv&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> student</span><br><span class="line">FIELDS TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;,&#x27;</span></span><br><span class="line">LINES TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;\n&#x27;</span>;</span><br></pre></td></tr></table></figure>
-
-<h3 id="上传数据至表的特定列"><a href="#上传数据至表的特定列" class="headerlink" title="上传数据至表的特定列"></a>上传数据至表的特定列</h3><p>若只上传文本数据至表中的特定列，需要在查询语句的末尾指定列名：</p>
-<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA INFILE &quot;dir_path/data.csv&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> student</span><br><span class="line">FIELDS TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;,&#x27;</span></span><br><span class="line">LINES TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;\n&#x27;</span></span><br><span class="line">(<span class="type">name</span>, age, score);</span><br></pre></td></tr></table></figure>
-
-<p>其他未指定上传数据的列会显示空值或者根据相应规则（如 AUTO_INCREMENT）来填充值。</p>
-<h3 id="上传前对数据预处理"><a href="#上传前对数据预处理" class="headerlink" title="上传前对数据预处理"></a>上传前对数据预处理</h3><p>上传数据时可能遇到文本数据类型与表中定义的类型不匹配，或者想要对列值进行修改，可以将文件中的值视为变量，对其进行预处理再导入。</p>
-<p>假设创建了一张表 <code>score</code>，包含 <code>name</code> 和 <code>avg_score</code> 两个字段：</p>
-<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">CREATE</span> <span class="keyword">TABLE</span> score (<span class="type">name</span> <span class="type">VARCHAR</span>(<span class="number">10</span>), avg_score <span class="type">INT</span>);</span><br></pre></td></tr></table></figure>
-
-<p>上传的文本文件中包含姓名和三个科目的分数，文件数据如下：</p>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Alice,95,90,92</span><br><span class="line">Bob,80,65,78</span><br><span class="line">Candy,85,88,83</span><br><span class="line">Divid,99,80,70</span><br></pre></td></tr></table></figure>
-
-<p>需要对三个分数处理取平均值再导入表中：</p>
-<figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">LOAD DATA INFILE &quot;dir_path/scores.csv&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> student</span><br><span class="line">FIELDS TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;,&#x27;</span></span><br><span class="line">LINES TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;\n&#x27;</span></span><br><span class="line">(name, <span class="variable">@score1</span>, <span class="variable">@score2</span>, <span class="variable">@score3</span>, <span class="variable">@avg</span>_score)</span><br><span class="line"><span class="keyword">SET</span> avg_score <span class="operator">=</span> (<span class="variable">@score1</span> <span class="operator">+</span> <span class="variable">@score2</span> <span class="operator">+</span> <span class="variable">@score3</span>) <span class="operator">/</span> <span class="number">3</span>;</span><br></pre></td></tr></table></figure>
-
-<h3 id="判断每行的起始字符"><a href="#判断每行的起始字符" class="headerlink" title="判断每行的起始字符"></a>判断每行的起始字符</h3><p>若文本文件中包含数据如下：</p>
-<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">$Alice,18</span><br><span class="line">$Bob,19</span><br><span class="line">$Candy,18</span><br><span class="line">$Divid,20</span><br></pre></td></tr></table></figure>
-
-<p>则导入数据语句为：</p>
-<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA INFILE &quot;dir_path/age.txt&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> age</span><br><span class="line">FIELDS TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;,&#x27;</span> </span><br><span class="line">LINES STARTING <span class="keyword">BY</span> <span class="string">&#x27;$&#x27;</span>;</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>Tech</category>
-      </categories>
-      <tags>
-        <tag>MySQL</tag>
       </tags>
   </entry>
   <entry>
@@ -445,6 +248,170 @@
       </tags>
   </entry>
   <entry>
+    <title>第一份实习</title>
+    <url>/Life/2022/11/02/first-internship.html</url>
+    <content><![CDATA[<p>原本计划面试同城旅行的数据分析岗，结果在准备投递简历那天职位需求下架了。所以在同学的鼓励和帮助下，尝试了京东的岗位面试。<br>第一次面试在 2022.10.26 上午十点，采用在线面试的形式，使用京东的 JoyMeeting 软件。</p>
+<p>由于是第一次实习面试，有些紧张是自然的，一个人在寝室里端坐着。到了十点，双方互相打了招呼后，正式开始面试。首先是我自我介绍，然后问了我参加的一个比赛和所负责的内容。接着是一道 SQL 题，这是唯一的技术性的问题，而且难度较低，题目如下：</p>
+<span id="more"></span>
+
+<table>
+<thead>
+<tr>
+<th>id</th>
+<th>user_id</th>
+<th>sku_id</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>1</td>
+<td>a</td>
+</tr>
+<tr>
+<td>2</td>
+<td>1</td>
+<td>b</td>
+</tr>
+<tr>
+<td>3</td>
+<td>1</td>
+<td>c</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2</td>
+<td>a</td>
+</tr>
+<tr>
+<td>5</td>
+<td>2</td>
+<td>b</td>
+</tr>
+<tr>
+<td>6</td>
+<td>3</td>
+<td>a</td>
+</tr>
+<tr>
+<td>7</td>
+<td>3</td>
+<td>b</td>
+</tr>
+<tr>
+<td>8</td>
+<td>3</td>
+<td>c</td>
+</tr>
+<tr>
+<td>9</td>
+<td>3</td>
+<td>d</td>
+</tr>
+</tbody></table>
+<ol>
+<li>求至少购买了商品 a、b、c 的用户；</li>
+<li>求至少购买了商品 a、b、c 的用户购买的物品数。</li>
+</ol>
+<p>然后问到我参加的比赛或者项目中遇到的难点，我是如何解决的、你的优缺点和最后的反问环节。</p>
+<p>通过 HR，面试的结果十几分钟就能知道结果，很遗憾，面试没有通过，得到的反馈是：</p>
+<ul>
+<li>在面试过程中展现出的抗压能力未达到岗位要求；</li>
+<li>自我评价时内向，这个岗位需要多方沟通；</li>
+<li>最后的反问环节说没有问题，表现出有点自我放弃。</li>
+</ul>
+<p>由于是第一次面试，我缺乏很多相关的经验，也没有去了解面试常见问题和禁忌。从个人角度来看，首先是抗压能力，在平时参加比赛或项目的过程中，应该深入理解项目架构、原理、执行过程，遇到困难时认真去克服并做好相应的记录；然后是面试时的自我评价环节，需要向面试官展示真诚的一面，同时考虑自己的优缺点与岗位的匹配度，陈述对该岗位有力的有点并举例说明，表达缺点时要避开对岗位要求不利的点，并说出未来的举措；面试时要保持自信，包括衣着得体、肢体语言，不要过分紧张，回答问题前先进行思考，避免给对方留下不好的印象。</p>
+<hr>
+<p>面试失败后，同学立即联系 HR 帮我内推另一个岗位，安排面试时间在 2022.10.27 上午十点。针对第一次面试时的失败，应该做好反思，思考失败的原因以及如何去解决。<br>第二次面试时，面试官与昨天的不一样，但面试问题却相差无几，甚至连 SQL<br>问题也是相同的，只多了一个你的学习方法是什么。但这次面试我说话的声音更大了，回答问题时伴随着肢体动作。对比赛和项目中遇到的难点提前做好了准备，面试时也能很好的回答上来。回答自己的优缺点时，避免了内向这个字眼，谈自己过于乐于助人而容易耽误自己的计划。最后的反问环节，我提了两个问题，也可以说是这个环节的标准答案：</p>
+<ul>
+<li>请问我在这个岗位所担任的职责或任务是什么；</li>
+<li>请问面试官我在这次面试过程中有没有不足的地方，请给予我一个反馈以供改正提升。</li>
+</ul>
+<p>这次面试吸收了前次失败的经验，对不足的地方进行了反思，所以最后在 10 月 30 日拿到了 offer，计划于 11 月 2 日到岗。面试时面试官给予的反馈是我的表达能力不足，对数据的认识不足，这是需要提升的地方。</p>
+<p>至此我的面试告一段落，我也因此有了能去大厂实习的机会，能去见识北京这个大城市的机会，在此之前我曾未此想过，所以万事要敢于尝试，在不自负的同时也要保持自信，那些不可能的事情也许是很轻松就能解决的，敢于向前踏出一小步，这样自己才能够成长。</p>
+<blockquote>
+<p>Countless hard attempts do not necessarily lead to success. To give up trying means to give up success forever.</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+        <tag>京东</tag>
+        <tag>实习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MySQl 从文件导入数据</title>
+    <url>/Tech/2022/11/11/mysql-load-data.html</url>
+    <content><![CDATA[<h1 id="MySQL-LOAD-DATA-Statement"><a href="#MySQL-LOAD-DATA-Statement" class="headerlink" title="MySQL - LOAD DATA Statement"></a>MySQL - LOAD DATA Statement</h1><p>MySQl Server 参考版本：8.0.22</p>
+<h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><p>如果想要将本地文件中的数据导入到 MySQL 表中，可以使用 <code>LOAD DATA</code> 语句，语法如下：</p>
+<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA</span><br><span class="line">   [<span class="keyword">LOCAL</span>]</span><br><span class="line">      INFILE <span class="string">&#x27;file_name&#x27;</span></span><br><span class="line">      [REPLACE | IGNORE]</span><br><span class="line">      <span class="keyword">INTO</span> <span class="keyword">TABLE</span> <span class="built_in">table_name</span></span><br><span class="line">      [&#123;FIELDS | <span class="keyword">COLUMNS</span>&#125;</span><br><span class="line">         [TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;string&#x27;</span>]</span><br><span class="line">         [[OPTIONALLY] ENCLOSED <span class="keyword">BY</span> <span class="string">&#x27;char&#x27;</span>]</span><br><span class="line">         [ESCAPED <span class="keyword">BY</span> <span class="string">&#x27;char&#x27;</span>]</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h2 id="权限检查"><a href="#权限检查" class="headerlink" title="权限检查"></a>权限检查</h2><p>在导入数据之前，需要先检查 MySQl 的一些配置项。</p>
+<ol>
+<li><p>检查是否启用了 <code>local_infile</code>，显示该变量的值：</p>
+<figure class="highlight sql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">SHOW</span> <span class="keyword">GLOBAL</span> VARIABLES <span class="keyword">LIKE</span> <span class="string">&#x27;local_infile&#x27;</span>;</span><br></pre></td></tr></table></figure>
+
+<p>若该变量的值为 <code>OFF</code>，则设置其值为 <code>ON</code>：</p>
+<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">SET GLOBAL local_infile</span> = <span class="string">&#x27;ON&#x27;</span>;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>给予数据库（如 test）中相应的表的文件权限或所有权限（ALL）：</p>
+<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">GRANT</span> <span class="keyword">ALL</span> <span class="keyword">ON</span> test.* <span class="keyword">TO</span> <span class="string">&#x27;root&#x27;</span>@<span class="string">&#x27;localhost&#x27;</span>;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>检查变量 <code>secure-file-priv</code> 的值，该变量用于限制数据导入和导出操作的权限，例如 <code>LOAD DATA</code> 和 <code>INTO OUTFILE</code> 语句。</p>
+<figure class="highlight gams"><table><tr><td class="code"><pre><span class="line">SHOW <span class="keyword">VARIABLES</span> LIKE <span class="comment">&#x27;%secure-file-priv%&#x27;</span>;</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>若值为空，表示没有安全设置；</li>
+<li>若值为目录路径，服务器的导入和导出操作仅处理该目录下的文件；</li>
+<li>若值为 NULL，服务器禁用导入和导出操作。</li>
+</ul>
+<p>可根据需求设置该变量的值。</p>
+</li>
+</ol>
+<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><h3 id="例子"><a href="#例子" class="headerlink" title="例子"></a>例子</h3><p>假设创建了一张表 <code>demo</code>：</p>
+<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">CREATE</span> <span class="keyword">TABLE</span> demo (<span class="type">name</span> <span class="type">VARCHAR</span>(<span class="number">20</span>));</span><br></pre></td></tr></table></figure>
+
+<p>需要将 <code>dir_path</code> 目录下的文件 <code>test.txt</code> 导入该表中，其内容为：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Alice</span><br><span class="line">Bob</span><br><span class="line">Candy</span><br><span class="line">Divid</span><br></pre></td></tr></table></figure>
+
+<p>导入文本数据至表中：</p>
+<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA INFILE &quot;dir_path/test.txt&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> demo;</span><br></pre></td></tr></table></figure>
+
+<h3 id="指定字段和行分隔符"><a href="#指定字段和行分隔符" class="headerlink" title="指定字段和行分隔符"></a>指定字段和行分隔符</h3><p>若文件中一行不止一个字段，字段的分隔符为 <code>,</code>，行的分隔符为 <code>\n</code>，则语句如下：</p>
+<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA INFILE &quot;dir_path/data.csv&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> student</span><br><span class="line">FIELDS TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;,&#x27;</span></span><br><span class="line">LINES TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;\n&#x27;</span>;</span><br></pre></td></tr></table></figure>
+
+<h3 id="上传数据至表的特定列"><a href="#上传数据至表的特定列" class="headerlink" title="上传数据至表的特定列"></a>上传数据至表的特定列</h3><p>若只上传文本数据至表中的特定列，需要在查询语句的末尾指定列名：</p>
+<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA INFILE &quot;dir_path/data.csv&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> student</span><br><span class="line">FIELDS TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;,&#x27;</span></span><br><span class="line">LINES TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;\n&#x27;</span></span><br><span class="line">(<span class="type">name</span>, age, score);</span><br></pre></td></tr></table></figure>
+
+<p>其他未指定上传数据的列会显示空值或者根据相应规则（如 AUTO_INCREMENT）来填充值。</p>
+<h3 id="上传前对数据预处理"><a href="#上传前对数据预处理" class="headerlink" title="上传前对数据预处理"></a>上传前对数据预处理</h3><p>上传数据时可能遇到文本数据类型与表中定义的类型不匹配，或者想要对列值进行修改，可以将文件中的值视为变量，对其进行预处理再导入。</p>
+<p>假设创建了一张表 <code>score</code>，包含 <code>name</code> 和 <code>avg_score</code> 两个字段：</p>
+<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">CREATE</span> <span class="keyword">TABLE</span> score (<span class="type">name</span> <span class="type">VARCHAR</span>(<span class="number">10</span>), avg_score <span class="type">INT</span>);</span><br></pre></td></tr></table></figure>
+
+<p>上传的文本文件中包含姓名和三个科目的分数，文件数据如下：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">Alice,95,90,92</span><br><span class="line">Bob,80,65,78</span><br><span class="line">Candy,85,88,83</span><br><span class="line">Divid,99,80,70</span><br></pre></td></tr></table></figure>
+
+<p>需要对三个分数处理取平均值再导入表中：</p>
+<figure class="highlight sql"><table><tr><td class="code"><pre><span class="line">LOAD DATA INFILE &quot;dir_path/scores.csv&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> student</span><br><span class="line">FIELDS TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;,&#x27;</span></span><br><span class="line">LINES TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;\n&#x27;</span></span><br><span class="line">(name, <span class="variable">@score1</span>, <span class="variable">@score2</span>, <span class="variable">@score3</span>, <span class="variable">@avg</span>_score)</span><br><span class="line"><span class="keyword">SET</span> avg_score <span class="operator">=</span> (<span class="variable">@score1</span> <span class="operator">+</span> <span class="variable">@score2</span> <span class="operator">+</span> <span class="variable">@score3</span>) <span class="operator">/</span> <span class="number">3</span>;</span><br></pre></td></tr></table></figure>
+
+<h3 id="判断每行的起始字符"><a href="#判断每行的起始字符" class="headerlink" title="判断每行的起始字符"></a>判断每行的起始字符</h3><p>若文本文件中包含数据如下：</p>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">$Alice,18</span><br><span class="line">$Bob,19</span><br><span class="line">$Candy,18</span><br><span class="line">$Divid,20</span><br></pre></td></tr></table></figure>
+
+<p>则导入数据语句为：</p>
+<figure class="highlight pgsql"><table><tr><td class="code"><pre><span class="line"><span class="keyword">LOAD</span> DATA INFILE &quot;dir_path/age.txt&quot;</span><br><span class="line"><span class="keyword">INTO</span> <span class="keyword">TABLE</span> age</span><br><span class="line">FIELDS TERMINATED <span class="keyword">BY</span> <span class="string">&#x27;,&#x27;</span> </span><br><span class="line">LINES STARTING <span class="keyword">BY</span> <span class="string">&#x27;$&#x27;</span>;</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Tech</category>
+      </categories>
+      <tags>
+        <tag>MySQL</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>My Favorite Animations</title>
     <url>/Anime/2022/09/19/my-favorite-animations.html</url>
     <content><![CDATA[<h3 id="赛博朋克-边缘行者"><a href="#赛博朋克-边缘行者" class="headerlink" title="赛博朋克 边缘行者"></a>赛博朋克 边缘行者</h3><p>其他名称：<code>サイバーパンク エッジランナーズ</code>、<code>Cyberpunk: Edgerunners</code></p>
@@ -460,6 +427,61 @@
       </categories>
       <tags>
         <tag>television</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>福州大学计算机推免面试</title>
+    <url>/Life/2022/09/23/fzu-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午十点参加了福州大学计算机与大数据学院&#x2F;软件学院的推免面试，面试内容不算难，但让我措手不及，感觉回答得有点烂。(T⌓T)</p>
+<ul>
+<li>请做一个 1 分钟英语自我介绍</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">这个上来给我整蒙了，我虽然是有准备英语自我介绍但是没背下来 :(，只能支支吾吾说了一点</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>介绍一下印象最深刻的参与的项目或者毕设</li>
+</ul>
+<figure class="highlight text"><table><tr><td class="code"><pre><span class="line">我介绍的一个学科竞赛，涉及到了大数据集群环境搭建（Hadoop、Zookeeper、Hive 和 Spark）、</span><br><span class="line">数据采集和处理（爬虫和数据清洗）、数据分析与挖掘（MapReduce 做基于物品的协同过滤</span><br><span class="line">ItemCF）、数据可视化（Matplotlib 和 Echarts）</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<ul>
+<li>这个比赛参与了多少队伍</li>
+<li>爬虫的过程，爬取的数据量有多大</li>
+<li>数据分析用到的算法</li>
+<li>四六级情况</li>
+<li>专业排名情况</li>
+<li>记得清楚的比赛的全名及名次</li>
+<li>大学里的其他获奖荣誉情况</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>南京航空航天大学计算机推免面试</title>
+    <url>/Life/2022/09/25/nuaa-cs-interview.html</url>
+    <content><![CDATA[<p>今天上午九点参加了南京航空航天大学计算机科学与技术学院的推免面试，面试时长 9 分钟，整个过程很糟糕。面试的老师很和蔼，问的问题有些综合性，我回答的不太好，还需要多多学习。面试之前需要准备身份证和学生证，而我忘记准备了 &#x2F;(ㄒoㄒ)&#x2F;~~，还好老师们都很和蔼，对我态度非常友好。</p>
+<ul>
+<li>请问你有没有推免资格</li>
+<li>请做一个自我介绍，语速放慢，吐字清晰</li>
+<li>英语问答 - 你学的专业是什么，你喜欢吗？</li>
+<li>英语问答 - 你喜欢你的家乡吗？</li>
+<li>什么是大数据，请解释一下</li>
+<li>你是学大数据的，有没有听过同源异构，请解释一下</li>
+<li>请挑几个所学专业课进行描述并说出他们之间的支撑关系</li>
+<li>回归和分类的区别是什么</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>面试</tag>
       </tags>
   </entry>
   <entry>
@@ -521,27 +543,5 @@
       <categories>
         <category>Life</category>
       </categories>
-  </entry>
-  <entry>
-    <title>南京航空航天大学计算机推免面试</title>
-    <url>/Life/2022/09/25/nuaa-cs-interview.html</url>
-    <content><![CDATA[<p>今天上午九点参加了南京航空航天大学计算机科学与技术学院的推免面试，面试时长 9 分钟，整个过程很糟糕。面试的老师很和蔼，问的问题有些综合性，我回答的不太好，还需要多多学习。面试之前需要准备身份证和学生证，而我忘记准备了 &#x2F;(ㄒoㄒ)&#x2F;~~，还好老师们都很和蔼，对我态度非常友好。</p>
-<ul>
-<li>请问你有没有推免资格</li>
-<li>请做一个自我介绍，语速放慢，吐字清晰</li>
-<li>英语问答 - 你学的专业是什么，你喜欢吗？</li>
-<li>英语问答 - 你喜欢你的家乡吗？</li>
-<li>什么是大数据，请解释一下</li>
-<li>你是学大数据的，有没有听过同源异构，请解释一下</li>
-<li>请挑几个所学专业课进行描述并说出他们之间的支撑关系</li>
-<li>回归和分类的区别是什么</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Life</category>
-      </categories>
-      <tags>
-        <tag>面试</tag>
-      </tags>
   </entry>
 </search>
